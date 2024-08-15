@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b { b BOOL  , c BOOLEAN  }  LIST  =  CURRENT_TIME 

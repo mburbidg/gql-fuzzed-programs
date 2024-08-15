@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  (  [  ]  XOR a OR  COUNT  (  *  )  OR  [  ]  ,  CURRENT_DATE  ) 

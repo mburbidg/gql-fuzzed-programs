@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  CEILING  (  [  ]  +  SESSION_USER  *  COUNT  (  *  )  - a +  COUNT  (  *  )  + a ) 

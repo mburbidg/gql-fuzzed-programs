@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  SESSION_USER  OR c AND  COUNT  (  *  )  AND a OR  SESSION_USER  } 

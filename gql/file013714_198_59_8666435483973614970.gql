@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { b :  CURRENT_DATE  , c :  COUNT  (  *  )  - a - c } 

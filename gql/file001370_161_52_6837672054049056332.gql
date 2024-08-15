@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COLLECT_LIST  (  COUNT  (  *  )  XOR a AND c AND b ) 

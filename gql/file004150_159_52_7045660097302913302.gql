@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  (  SESSION_USER  - a / c + b AS  BOOL  ) 

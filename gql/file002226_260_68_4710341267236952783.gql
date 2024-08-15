@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  SQRT  (  COUNT  (  *  )  + a + c + b - c -  COUNT  (  *  )  )  ) 

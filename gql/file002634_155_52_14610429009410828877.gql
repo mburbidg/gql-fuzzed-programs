@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  COUNT  (  *  )  / c * c ,  LOCAL_TIMESTAMP  ) 

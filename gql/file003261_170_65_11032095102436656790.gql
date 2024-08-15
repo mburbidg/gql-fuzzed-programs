@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LTRIM  ( b ,  RIGHT  (  SESSION_USER  , a )  ) 

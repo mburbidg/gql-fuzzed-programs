@@ -1,0 +1,1 @@
+ INSERT  (  { c :  CURRENT_TIMESTAMP  , a :  COUNT  (  *  )  }  ) 

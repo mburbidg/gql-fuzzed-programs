@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a =  CURRENT_TIME  , a = c ||  COUNT  (  *  )  IN  CURRENT_TIMESTAMP  END 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CEILING  (  LOG  (  SESSION_USER  , c )  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  ( a AND  COUNT  (  *  )  XOR a OR a OR b OR  [  ]  ) 

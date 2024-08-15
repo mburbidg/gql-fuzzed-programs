@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  SESSION_USER  ||  RIGHT  (  COUNT  (  *  )  , a )  || c

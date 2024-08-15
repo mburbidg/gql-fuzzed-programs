@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  CURRENT_DATE  +  COUNT  (  *  )  * -a / c

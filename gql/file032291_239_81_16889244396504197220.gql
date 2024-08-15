@@ -1,1 +1,0 @@
- INSERT  (  { b :  CURRENT_TIMESTAMP  , c :  DURATION_BETWEEN  (  LOCAL_TIMESTAMP  ,  CURRENT_DATE  )  +  COUNT  (  *  )  }  ) 

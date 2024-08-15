@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  MATCH  (  (  )  WHERE  COUNT  (  *  )  OR  NOT a AND  SESSION_USER  ) 

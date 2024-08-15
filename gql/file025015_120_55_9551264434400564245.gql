@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  TRIM  (  [  ]  )  ,  CURRENT_TIMESTAMP  ) 

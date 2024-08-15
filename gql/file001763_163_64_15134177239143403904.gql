@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { a BINARY  ( 9 )  }  )  =  CURRENT_TIMESTAMP 

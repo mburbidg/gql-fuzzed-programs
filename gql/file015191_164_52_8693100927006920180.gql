@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  AVG  (  SESSION_USER  +  SESSION_USER  * c *  COUNT  (  *  )  ) 

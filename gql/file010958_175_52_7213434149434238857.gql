@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  ( a *  COUNT  (  *  )  +  COUNT  (  *  )  ,  CURRENT_TIMESTAMP  ) 

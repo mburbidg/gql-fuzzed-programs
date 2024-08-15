@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  FLOOR  ( a -  [  ]  /  PATH_LENGTH  (  SESSION_USER  )  )  ) 

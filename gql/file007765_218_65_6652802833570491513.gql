@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  ( a XOR  SESSION_USER  AND  COUNT  (  *  )  AND a XOR b ) 

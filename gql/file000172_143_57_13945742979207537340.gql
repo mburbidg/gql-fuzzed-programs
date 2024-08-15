@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LOWER  ( c ||  NORMALIZE  (  COUNT  (  *  )  )  )  ) 

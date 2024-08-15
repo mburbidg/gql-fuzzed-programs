@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  ( a XOR  COUNT  (  *  )  AND  COUNT  (  *  )  IS  NOT  FALSE  ,  CURRENT_TIMESTAMP  ) 

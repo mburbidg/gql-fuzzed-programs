@@ -1,1 +1,0 @@
- FILTER a XOR  [  ]  AND  SESSION_USER  AND a

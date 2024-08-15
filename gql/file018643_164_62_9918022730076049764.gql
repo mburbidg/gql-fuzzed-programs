@@ -1,1 +1,0 @@
- SELECT  *  FROM  { c :  CURRENT_TIMESTAMP  }  MATCH  (  ) 

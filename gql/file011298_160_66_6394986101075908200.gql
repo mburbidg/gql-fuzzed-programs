@@ -1,0 +1,1 @@
+ DELETE  LOCAL_TIMESTAMP  ,  COUNT  (  *  )  XOR c XOR a

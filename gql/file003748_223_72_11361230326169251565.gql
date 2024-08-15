@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  SET a =  { b : a -  SESSION_USER  *  COUNT  (  *  )  + b } 

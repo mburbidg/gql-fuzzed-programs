@@ -1,1 +1,0 @@
- INSERT  (  { a :  LOCAL_TIMESTAMP  , a : b XOR  COUNT  (  *  )  OR c }  ) 

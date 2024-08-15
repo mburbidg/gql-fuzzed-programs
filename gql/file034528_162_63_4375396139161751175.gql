@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  LTRIM  (  SESSION_USER  ,  LTRIM  (  COUNT  (  *  )  )  ) 

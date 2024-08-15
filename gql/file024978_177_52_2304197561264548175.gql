@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET c =  [  ]  OR  [  ]  AND  NOT  COUNT  (  *  )  IN  LOCAL_TIMESTAMP  END 

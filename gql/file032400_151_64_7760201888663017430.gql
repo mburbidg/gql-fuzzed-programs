@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  INSERT  (  IS @""  { b :  CURRENT_TIMESTAMP  }  ) 

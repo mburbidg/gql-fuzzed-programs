@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING  SESSION_USER  AND  COUNT  (  *  )  OR b OR  COUNT  (  *  ) 

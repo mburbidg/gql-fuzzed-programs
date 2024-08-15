@@ -1,0 +1,1 @@
+ MATCH  (  (  )  WHERE b OR a XOR b XOR  SESSION_USER  ) 

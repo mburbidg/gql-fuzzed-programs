@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING  COUNT  (  *  )  OR  COUNT  (  *  )  AND c XOR  COUNT  (  *  ) 

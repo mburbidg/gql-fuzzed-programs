@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  INSERT  (  )  -[ c IS b { b :  LOCAL_TIMESTAMP  , b :  CURRENT_TIME  }  ]->  (  ) 

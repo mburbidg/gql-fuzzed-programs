@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  INSERT  (  )  -[  { a :  LOCAL_TIMESTAMP  , a :  CURRENT_DATE  }  ]->  (  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  DURATION  (  { a :  CURRENT_TIMESTAMP  }  )  ) 

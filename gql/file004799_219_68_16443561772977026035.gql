@@ -1,1 +1,0 @@
- SET b . b =  CURRENT_DATE  +  COUNT  (  *  )  /  COUNT  (  *  )  -  COUNT  (  *  ) 

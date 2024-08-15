@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c = a *  POWER  (  SESSION_USER  , c )  +  CURRENT_TIME 

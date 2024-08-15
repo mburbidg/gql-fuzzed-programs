@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  LOWER  ( b )  ,  CURRENT_DATE  ) 

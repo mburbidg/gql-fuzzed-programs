@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  ( a OR b AND  ALL_DIFFERENT  ( b , b )  XOR c ) 

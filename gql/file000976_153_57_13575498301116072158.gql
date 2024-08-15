@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ABS  (  SESSION_USER  - a / a ) 

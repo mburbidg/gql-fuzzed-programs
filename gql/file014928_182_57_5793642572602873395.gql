@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { b :  COUNT  (  *  )  XOR b AND  NOT b OR b } 

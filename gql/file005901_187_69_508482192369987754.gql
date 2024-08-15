@@ -1,0 +1,1 @@
+ SET a =  { c : b -  SESSION_USER  /  COUNT  (  *  )  } 

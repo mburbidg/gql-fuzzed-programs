@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  EXP  ( c + a / c * b - a ) 

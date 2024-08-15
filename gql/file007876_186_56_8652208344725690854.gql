@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  COUNT  (  *  )  XOR a AND a

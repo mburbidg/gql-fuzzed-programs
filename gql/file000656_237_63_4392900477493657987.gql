@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  COT  (  COUNT  (  *  )  +  SESSION_USER  *  SESSION_USER  /  SESSION_USER  *  COUNT  (  *  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE  WHEN a THEN a OR a OR c XOR  COUNT  (  *  )  END 

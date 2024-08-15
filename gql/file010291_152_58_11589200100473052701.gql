@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  TABLE  PERCENTILE_DISC  (  COUNT  (  *  )  ,  SESSION_USER  ) 

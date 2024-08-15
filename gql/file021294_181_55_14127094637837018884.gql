@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  ( c XOR b AND c XOR b XOR b AS  BOOLEAN  ) 

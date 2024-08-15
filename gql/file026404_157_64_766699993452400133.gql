@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  { c CHAR  ARRAY  }  )  =  LOCAL_TIMESTAMP 

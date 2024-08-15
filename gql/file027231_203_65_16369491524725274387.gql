@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LOG10  ( c +  [  ]  /  CARDINALITY  (  TABLE b )  - c )  ) 

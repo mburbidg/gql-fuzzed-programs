@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  EXP  (  COUNT  (  *  )  + a /  FLOOR  (  SESSION_USER  )  )  ) 

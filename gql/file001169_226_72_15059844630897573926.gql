@@ -1,1 +1,0 @@
- SET b =  { a : c OR  COUNT  (  *  )  AND  COUNT  (  *  )  OR  SESSION_USER  } 

@@ -1,0 +1,1 @@
+ SET b =  {  }  , a . b =  DURATION_BETWEEN  (  CURRENT_DATE  ,  CURRENT_TIMESTAMP  ) 

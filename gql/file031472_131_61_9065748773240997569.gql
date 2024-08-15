@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  LET a =  CURRENT_TIME  IN b END 

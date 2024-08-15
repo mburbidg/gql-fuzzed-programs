@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { a : c XOR a AND a XOR  [  ]  XOR a } 

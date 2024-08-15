@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TAN  (  CARDINALITY  (  TABLE c )  ) 

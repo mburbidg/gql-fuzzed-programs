@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  DURATION_BETWEEN  (  PATH  [ b ]  ,  CURRENT_DATE  )  ) 

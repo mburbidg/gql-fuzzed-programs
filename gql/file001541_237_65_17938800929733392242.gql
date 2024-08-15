@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ( a XOR  COUNT  (  *  )  AND b AND  COUNT  (  *  )  AND  COUNT  (  *  )  )  ) 

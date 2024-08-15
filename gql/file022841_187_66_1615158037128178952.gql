@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE c WHEN  >=  ( b AND  [  ]  AND  COUNT  (  *  )  )  THEN  NULL  END 

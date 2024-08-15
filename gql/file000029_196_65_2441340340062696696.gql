@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  { b ANY  , b LIST  <  PATH  >  }  )  =  CURRENT_DATE 

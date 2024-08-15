@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET a . b = b AND  NOT  COUNT  (  *  )  AND  SESSION_USER 

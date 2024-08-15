@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  (  CURRENT_DATE  , c XOR c OR  [  ]  XOR b XOR c ) 

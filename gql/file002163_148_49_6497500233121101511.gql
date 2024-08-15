@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CURRENT_DATE  + a * +c +  SESSION_USER 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE b WHEN  <=  ( b AND c )  THEN  NULL  END 

@@ -1,1 +1,0 @@
- MATCH  (  )  WHERE  COUNT  (  *  )  OR  SESSION_USER  XOR  [  ]  OR a XOR  SESSION_USER 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a =  CURRENT_TIME  IN  [  ]  AND  SESSION_USER  AND  [  ]  AND  [  ]  END 

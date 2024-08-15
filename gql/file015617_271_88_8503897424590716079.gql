@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  MATCH  (  (  )  WHERE c OR c OR  [  ]  OR  [  ]  XOR  SESSION_USER  ) 

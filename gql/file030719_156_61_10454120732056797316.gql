@@ -1,1 +1,0 @@
- FILTER a OR b AND  NOT  COUNT  (  *  )  AND b

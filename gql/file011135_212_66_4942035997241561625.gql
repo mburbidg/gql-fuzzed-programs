@@ -1,1 +1,0 @@
- FILTER  COUNT  (  *  )  XOR b XOR  COUNT  (  *  )  XOR b XOR  [  ] 

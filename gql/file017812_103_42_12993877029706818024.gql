@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c INT  ( 5 )  =  CURRENT_TIME 

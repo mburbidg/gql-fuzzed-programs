@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LEFT  ( a ,  [  ]  -  SESSION_USER  * b -  [  ]  + a )  ) 

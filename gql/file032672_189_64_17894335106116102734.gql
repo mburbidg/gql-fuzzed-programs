@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  POWER  ( c -  PATH_LENGTH  (  [  ]  )  ,  SESSION_USER  ) 

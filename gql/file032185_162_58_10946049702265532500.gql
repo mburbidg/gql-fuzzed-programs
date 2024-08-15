@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  (  COUNT  (  *  )  OR  PROPERTY_EXISTS  ( a , b )  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b DEC  ( 9 , 8_9 )  =  CURRENT_TIME 

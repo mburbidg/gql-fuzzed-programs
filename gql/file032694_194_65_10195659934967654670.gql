@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  MOD  ( c ,  SESSION_USER  +  CARDINALITY  (  TABLE a )  + b )  ) 

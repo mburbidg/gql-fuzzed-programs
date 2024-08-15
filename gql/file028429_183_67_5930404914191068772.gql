@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  MOD  ( a +  CEILING  (  SESSION_USER  )  , b ) 

@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  MATCH  (  )  WHERE c OR  COUNT  (  *  )  AND a

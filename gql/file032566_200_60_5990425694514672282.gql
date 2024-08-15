@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  FLOOR  ( a + +c * a /  COUNT  (  *  )  ) 

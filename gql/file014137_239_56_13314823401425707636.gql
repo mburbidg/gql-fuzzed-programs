@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  PERCENTILE_DISC  ( a - c *  SESSION_USER  *  SESSION_USER  / a + b ,  [  ]  ) 

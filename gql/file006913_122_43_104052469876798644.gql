@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c FLOAT  ( 9 , 96 )  =  CURRENT_DATE 

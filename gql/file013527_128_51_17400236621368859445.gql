@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  TRIM  (  CAST  (  NULL  AS  NULL  )  , c )  ) 

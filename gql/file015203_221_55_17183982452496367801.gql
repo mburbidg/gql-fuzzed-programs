@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET b =  COUNT  (  *  )  -  [  ]  *  [  ]  *  COUNT  (  *  )  IN  CURRENT_DATE  END 

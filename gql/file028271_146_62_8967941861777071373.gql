@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  LET a =  CURRENT_TIME  , b = c || b

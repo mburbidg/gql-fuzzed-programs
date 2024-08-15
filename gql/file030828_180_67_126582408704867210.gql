@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  EXP  ( a - c *  LN  ( a )  ) 

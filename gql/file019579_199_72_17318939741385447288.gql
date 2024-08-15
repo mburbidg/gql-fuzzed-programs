@@ -1,1 +1,0 @@
- SET b =  { b :  CURRENT_TIME  , b :  LOCAL_TIMESTAMP  +  SESSION_USER  - b } 

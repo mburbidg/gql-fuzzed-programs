@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COLLECT_LIST  ( c -  SESSION_USER  / +a ) 

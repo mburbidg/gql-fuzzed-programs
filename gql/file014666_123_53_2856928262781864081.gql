@@ -1,1 +1,0 @@
- SESSION  SET  TABLE  $a =  VARIABLE  ( c OR  SESSION_USER  ) 

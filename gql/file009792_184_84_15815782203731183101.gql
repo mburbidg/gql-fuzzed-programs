@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  MATCH  ~[  { a :  CURRENT_DATE  , b :  LOCAL_TIMESTAMP  }  ]~> 

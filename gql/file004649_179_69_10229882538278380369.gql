@@ -1,0 +1,1 @@
+ SET c . a = c XOR a XOR b OR c

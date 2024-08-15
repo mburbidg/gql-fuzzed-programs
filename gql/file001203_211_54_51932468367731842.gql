@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CURRENT_TIME  -  SESSION_USER  - c + a +  SESSION_USER  -  [  ] 

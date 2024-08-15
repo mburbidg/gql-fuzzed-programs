@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE  WHEN  COUNT  (  *  )  THEN  SESSION_USER  * a * b END 

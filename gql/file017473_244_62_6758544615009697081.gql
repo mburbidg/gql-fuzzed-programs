@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  [  ]  XOR  COUNT  (  *  )  AND c AND  SESSION_USER  AND b

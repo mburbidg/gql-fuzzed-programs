@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  CURRENT_TIMESTAMP  , a :  COUNT  (  *  )  AND b AND b } 

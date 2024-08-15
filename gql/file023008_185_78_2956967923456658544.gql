@@ -1,1 +1,0 @@
- INSERT  (  { a :  DURATION_BETWEEN  (  CURRENT_TIME  ,  CURRENT_TIME  )  + c }  ) 

@@ -1,1 +1,0 @@
- MATCH  (  )  WHERE a XOR  [  ]  AND  NOT  COUNT  (  *  )  AND a

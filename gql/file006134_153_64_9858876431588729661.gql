@@ -1,0 +1,1 @@
+ INSERT  (  IS c & bc { c :  LOCAL_TIMESTAMP  }  ) 

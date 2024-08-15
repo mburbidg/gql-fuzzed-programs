@@ -1,0 +1,1 @@
+ SELECT  *  FROM  CURRENT_GRAPH  MATCH  (  )  ,  PATH  [  SESSION_USER  ]  MATCH  (  ) 

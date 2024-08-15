@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET c =  CURRENT_DATE  , a =  LOCAL_TIMESTAMP  -  [  ]  *  COUNT  (  *  )  IN  CURRENT_DATE  END 

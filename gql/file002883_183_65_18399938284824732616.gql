@@ -1,0 +1,1 @@
+ SELECT  *  FROM  PERCENTILE_DISC  (  SESSION_USER  , b )  MATCH  (  ) 

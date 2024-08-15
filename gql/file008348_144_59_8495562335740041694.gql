@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { c LOCAL  TIME  }  )  =  LOCAL_TIMESTAMP 

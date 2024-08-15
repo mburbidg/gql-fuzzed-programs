@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  DURATION_BETWEEN  (  ZONED_TIME  (  {  }  )  ,  CURRENT_DATE  ) 

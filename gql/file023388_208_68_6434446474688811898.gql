@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  LET b =  LOCAL_TIMESTAMP  , a =  COUNT  (  *  )  OR  [  ]  XOR b

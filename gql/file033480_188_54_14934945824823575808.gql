@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  PERCENTILE_CONT  ( a /  CARDINALITY  (  TABLE c )  - a ,  COUNT  (  *  )  ) 

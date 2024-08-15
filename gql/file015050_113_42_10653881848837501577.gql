@@ -1,1 +1,0 @@
- SESSION  SET  TABLE  $c TABLE  { c REAL   NOT  NULL  }  = b

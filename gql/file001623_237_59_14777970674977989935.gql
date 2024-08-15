@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING  COUNT  (  *  )  OR  [  ]  AND  COUNT  (  *  )  AND a

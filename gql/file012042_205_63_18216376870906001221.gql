@@ -1,1 +1,0 @@
- CALL c (  CURRENT_TIMESTAMP  , c XOR c AND  COUNT  (  *  )  OR  SESSION_USER  ) 

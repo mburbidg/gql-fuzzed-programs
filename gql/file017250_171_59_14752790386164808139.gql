@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  RIGHT  (  UPPER  ( c )  || c ,  COUNT  (  *  )  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  TRIM  ( b ,  CARDINALITY  (  TABLE b )  - c ) 

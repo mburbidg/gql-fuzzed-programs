@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $c TABLE  { a NULL  , b VARCHAR   NOT  NULL  }  = b

@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING a OR c AND c AND  COUNT  (  *  )  XOR  SESSION_USER 

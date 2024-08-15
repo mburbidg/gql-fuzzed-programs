@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a TABLE  { a FLOAT64   NOT  NULL  }  = b

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  TRIM  ( c , a - -b +  SESSION_USER  ) 

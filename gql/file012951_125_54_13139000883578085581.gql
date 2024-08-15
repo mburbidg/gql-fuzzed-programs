@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = a /  LOG10  (  SESSION_USER  ) 

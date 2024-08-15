@@ -1,1 +1,0 @@
- SESSION  SET  TABLE  $c =  CASE  WHEN  COUNT  (  *  )  THEN  NULL  END 

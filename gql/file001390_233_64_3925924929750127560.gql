@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  RIGHT  ( c , a - b + b + c + c ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  LOG  (  SESSION_USER  , a -  SQRT  ( b )  ) 

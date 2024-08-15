@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  MATCH  (  )  WHERE b XOR c XOR  COUNT  (  *  )  OR b OR a

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  ( b AND  COUNT  (  *  )  IS  FALSE  AND b AND  SESSION_USER  AND c ) 

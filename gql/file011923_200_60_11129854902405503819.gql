@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  CURRENT_DATE  , c : b OR  SESSION_USER  AND a AND c } 

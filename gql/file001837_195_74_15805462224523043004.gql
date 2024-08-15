@@ -1,0 +1,1 @@
+ SET c =  { b :  SESSION_USER  XOR c XOR  SESSION_USER  OR c } 

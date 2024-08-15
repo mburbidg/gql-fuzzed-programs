@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOCAL_TIMESTAMP  +  SESSION_USER  *  POWER  ( c ,  COUNT  (  *  )  )  ) 

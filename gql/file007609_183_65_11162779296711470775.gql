@@ -1,1 +1,0 @@
- INSERT  (  )  RETURN  LOCAL_TIMESTAMP  ,  COUNT  (  *  )  AND  [  ] 

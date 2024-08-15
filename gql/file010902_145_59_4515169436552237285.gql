@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  { a FLOAT256   NOT  NULL  }  )  =  CURRENT_DATE 

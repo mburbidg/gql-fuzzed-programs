@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c STRING  ( 0xa )  =  CURRENT_TIME 

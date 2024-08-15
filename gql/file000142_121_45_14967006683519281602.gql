@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  PATH  [ b ,  SESSION_USER  ,  CAST  (  NULL  AS  PATH  )  ] 

@@ -1,0 +1,1 @@
+ SELECT  *  FROM  PATH  [  SESSION_USER  ]  {  FINISH  } 

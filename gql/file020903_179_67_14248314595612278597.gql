@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  CEILING  (  SESSION_USER  - b /  LN  (  SESSION_USER  )  ) 

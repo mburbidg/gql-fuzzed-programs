@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  ( a OR b AND a OR a OR a ,  CURRENT_TIME  ) 

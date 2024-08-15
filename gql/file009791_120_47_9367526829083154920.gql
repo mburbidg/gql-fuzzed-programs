@@ -1,1 +1,0 @@
- USE  NULLIF  (  CURRENT_DATE  ,  CURRENT_DATE  )  INSERT  (  ) 

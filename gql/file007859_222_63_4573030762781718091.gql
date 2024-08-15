@@ -1,1 +1,0 @@
- CALL c (  CURRENT_TIME  , a OR b AND  COUNT  (  *  )  XOR  COUNT  (  *  )  ) 

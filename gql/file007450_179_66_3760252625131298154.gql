@@ -1,1 +1,0 @@
- FILTER  [  ]  XOR c XOR  SESSION_USER  OR b XOR c

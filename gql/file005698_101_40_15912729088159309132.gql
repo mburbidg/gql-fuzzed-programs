@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a INT  ( 8 )  =  LOCAL_TIMESTAMP 

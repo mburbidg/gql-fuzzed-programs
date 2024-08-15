@@ -1,1 +1,0 @@
- CALL b (  SESSION_USER  XOR a AND a OR c OR  COUNT  (  *  )  ) 

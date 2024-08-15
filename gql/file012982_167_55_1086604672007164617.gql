@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET b = b - a / c / a IN  CURRENT_DATE  END 

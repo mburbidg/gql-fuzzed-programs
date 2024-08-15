@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  DELETE b XOR  COUNT  (  *  )  OR  SESSION_USER  XOR  [  ]  OR  COUNT  (  *  ) 

@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET a . c = c XOR  SESSION_USER  XOR  [  ]  OR c OR a

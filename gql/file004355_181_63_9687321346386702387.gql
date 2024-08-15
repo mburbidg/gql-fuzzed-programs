@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE a WHEN  <>  LOCAL_TIMESTAMP  + b *  COUNT  (  *  )  + c THEN  NULL  END 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a UINT  ( 6 )  =  CURRENT_DATE 

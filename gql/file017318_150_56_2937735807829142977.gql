@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  PERCENTILE_DISC  ( c +  LOG10  ( b )  , a ) 

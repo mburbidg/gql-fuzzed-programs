@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LOG  (  [  ]  , c -  COUNT  (  *  )  *  CEIL  (  COUNT  (  *  )  )  )  ) 

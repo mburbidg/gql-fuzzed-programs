@@ -1,1 +1,0 @@
- INSERT  (  { b :  CURRENT_TIMESTAMP  , a : c XOR  COUNT  (  *  )  AND b }  ) 

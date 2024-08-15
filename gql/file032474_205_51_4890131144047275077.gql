@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  [  ]  XOR  COUNT  (  *  )  AND  NOT b XOR b OR b

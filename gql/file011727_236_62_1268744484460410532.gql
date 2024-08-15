@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  COUNT  (  *  )  OR c OR b XOR  [  ]  XOR  COUNT  (  *  )  } 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CURRENT_TIMESTAMP  - c *  EXP  (  SESSION_USER  )  +  [  ]  ) 

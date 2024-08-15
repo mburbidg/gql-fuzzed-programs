@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  LABEL a { c BOOLEAN  }  )  ~[  IMPLIES  ]~  (  )  =  CURRENT_TIME 

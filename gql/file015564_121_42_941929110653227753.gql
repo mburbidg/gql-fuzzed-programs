@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a ANY  <  ANY  |  STRING   NOT  NULL  >  =  CURRENT_TIME 

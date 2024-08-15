@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a =  CURRENT_TIME  IN a + a * -c END 

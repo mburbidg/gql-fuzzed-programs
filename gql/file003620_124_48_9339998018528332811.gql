@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c PATH  |  CHAR  ( 9 )  =  CURRENT_TIME 

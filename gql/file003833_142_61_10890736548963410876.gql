@@ -1,0 +1,1 @@
+ SELECT a OR a AND c AND c

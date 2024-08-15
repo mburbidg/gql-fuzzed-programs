@@ -1,1 +1,0 @@
- CALL a (  CURRENT_TIMESTAMP  ,  COUNT  (  *  )  OR c OR a XOR a ) 

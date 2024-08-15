@@ -1,0 +1,1 @@
+ SELECT  *  FROM  VARIABLE  (  CURRENT_TIME  )  {  FINISH  } 

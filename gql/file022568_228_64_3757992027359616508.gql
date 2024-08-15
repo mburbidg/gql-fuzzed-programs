@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  LABEL c { c BOOL  , b PATH  }  )  ~[  IMPLIES  ]~  (  )  =  LOCAL_TIMESTAMP 

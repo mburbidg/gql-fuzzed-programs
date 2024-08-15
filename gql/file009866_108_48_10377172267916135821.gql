@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  ( c || b ,  CURRENT_TIME  ) 

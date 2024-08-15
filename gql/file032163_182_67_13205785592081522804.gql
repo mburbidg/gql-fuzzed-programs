@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CEIL  (  [  ]  +  MOD  ( a ,  SESSION_USER  )  )  ) 

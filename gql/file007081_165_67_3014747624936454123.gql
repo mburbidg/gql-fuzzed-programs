@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  TRIM  (  NORMALIZE  ( b )  || c FROM b ) 

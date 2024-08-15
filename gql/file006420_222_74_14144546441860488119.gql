@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  )  -[ a IS a { b :  CURRENT_TIMESTAMP  , c :  CURRENT_TIMESTAMP  }  ]->  (  ) 

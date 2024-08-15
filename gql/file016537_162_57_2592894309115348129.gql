@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  RIGHT  (  (  CURRENT_TIMESTAMP  )  || c , b ) 

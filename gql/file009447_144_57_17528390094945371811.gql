@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { c RECORD   NOT  NULL  }  )  =  CURRENT_TIMESTAMP 

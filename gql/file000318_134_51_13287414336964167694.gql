@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  TRIM  (  (  LOCAL_TIMESTAMP  )  , a ) 

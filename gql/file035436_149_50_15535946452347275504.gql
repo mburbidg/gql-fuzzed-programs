@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  DURATION_BETWEEN  (  ZONED_TIME  (  {  }  )  - b ,  LOCAL_TIMESTAMP  )  ) 

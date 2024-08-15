@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a =  CURRENT_DATE  IN  [  ]  XOR b OR c END 

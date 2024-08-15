@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  XOR  SESSION_USER  AND  COUNT  (  *  )  OR  [  ]  AS  NULL  ) 

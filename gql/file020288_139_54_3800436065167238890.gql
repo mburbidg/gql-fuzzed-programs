@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET c = c * c * b IN  CURRENT_DATE  END 

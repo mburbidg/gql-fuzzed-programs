@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  COUNT  (  *  )  OR  COUNT  (  *  )  IS  NOT  FALSE  AND a XOR a

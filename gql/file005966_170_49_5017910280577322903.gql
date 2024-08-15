@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b =  CURRENT_DATE  IN  COUNT  (  *  )  AND c OR  COUNT  (  *  )  END 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET c =  CURRENT_DATE  , a =  [  ]  XOR  COUNT  (  *  )  OR  COUNT  (  *  )  IN  CURRENT_DATE  END 

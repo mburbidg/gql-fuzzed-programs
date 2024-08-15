@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a CHAR  ( 0o_7 )  =  CURRENT_TIME 

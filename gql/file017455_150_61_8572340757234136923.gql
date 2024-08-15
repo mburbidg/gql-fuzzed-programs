@@ -1,1 +1,0 @@
- SELECT  LOCAL_TIMESTAMP  - b *  SESSION_USER  *  COUNT  (  *  ) 

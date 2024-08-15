@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  EXP  ( b *  EXP  (  SESSION_USER  )  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  ELEMENTS  (  CAST  (  NULL  AS  BOOL  )  ) 

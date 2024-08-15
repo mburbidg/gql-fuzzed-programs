@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET b =  { c :  CURRENT_TIME  , a : c XOR  COUNT  (  *  )  XOR  COUNT  (  *  )  XOR a } 

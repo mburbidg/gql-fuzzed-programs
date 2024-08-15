@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  STDDEV_POP  (  TRIM  (  SESSION_USER  , c )  ) 

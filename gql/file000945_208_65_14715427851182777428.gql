@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  ORDER  BY a AND  COUNT  (  *  )  OR  [  ] 

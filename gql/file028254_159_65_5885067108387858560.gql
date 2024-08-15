@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  TRIM  ( c , a )  =  CURRENT_DATE 

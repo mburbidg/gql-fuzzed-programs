@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET c =  COUNT  (  *  )  OR  COUNT  (  *  )  AND a AND b AND b IN  CURRENT_TIMESTAMP  END 

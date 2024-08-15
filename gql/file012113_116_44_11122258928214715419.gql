@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( a AND  PROPERTY_EXISTS  ( c , a )  ) 

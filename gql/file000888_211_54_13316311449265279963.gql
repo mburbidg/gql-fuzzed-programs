@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CURRENT_TIMESTAMP  + b * b + a + a -  [  ] 

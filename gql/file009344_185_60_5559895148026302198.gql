@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { c PROPERTY  VALUE  }  )  ~[  IMPLIES  ]~  (  )  =  LOCAL_TIMESTAMP 

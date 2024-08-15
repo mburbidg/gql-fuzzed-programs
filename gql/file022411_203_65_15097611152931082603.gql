@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  MOD  ( a ,  SESSION_USER  - a *  PATH_LENGTH  (  SESSION_USER  )  ) 

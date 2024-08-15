@@ -1,1 +1,0 @@
- CALL c ( a XOR  SESSION_USER  OR b XOR  COUNT  (  *  )  OR  COUNT  (  *  )  ) 

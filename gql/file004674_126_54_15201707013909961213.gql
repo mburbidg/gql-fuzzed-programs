@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE b WHEN  IS  NULL  ,  COUNT  (  *  )  . a THEN  NULL  END 

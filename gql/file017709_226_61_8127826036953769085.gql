@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  COUNT  (  *  )  AND a AND  COUNT  (  *  )  OR a

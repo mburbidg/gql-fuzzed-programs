@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING  SESSION_USER  AND  [  ]  XOR  COUNT  (  *  )  XOR a

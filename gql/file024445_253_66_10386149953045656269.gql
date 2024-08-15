@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LOG  ( c *  COUNT  (  *  )  *  COUNT  (  *  )  *  SESSION_USER  -  SESSION_USER  , c )  ) 

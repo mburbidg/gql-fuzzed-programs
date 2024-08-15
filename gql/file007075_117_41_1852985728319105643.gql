@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c DEC  ( 9 , 7 )  =  CURRENT_TIME 

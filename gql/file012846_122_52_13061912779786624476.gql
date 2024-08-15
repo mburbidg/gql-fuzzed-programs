@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  NOT  COUNT  (  *  )  XOR  [  ]  THEN  NULL  END 

@@ -1,1 +1,0 @@
- CALL c (  CURRENT_DATE  ,  CURRENT_DATE  -  COUNT  (  *  )  +  SESSION_USER  ) 

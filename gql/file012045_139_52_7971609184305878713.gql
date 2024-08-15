@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COUNT  (  *  )  *  CHAR_LENGTH  (  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  WHERE a XOR  [  ]  OR a XOR  SESSION_USER 

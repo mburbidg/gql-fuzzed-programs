@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  ACOS  ( a + b *  SESSION_USER  * c + b +  SESSION_USER  )  ) 

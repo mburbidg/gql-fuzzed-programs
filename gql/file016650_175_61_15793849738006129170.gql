@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  MOD  (  COUNT  (  *  )  *  (  CURRENT_TIMESTAMP  )  ,  SESSION_USER  )  ) 

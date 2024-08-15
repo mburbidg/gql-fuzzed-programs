@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( c OR c AND  NOT b OR  COUNT  (  *  )  ) 

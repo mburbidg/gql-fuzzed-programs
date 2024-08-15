@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  ( c AND  COUNT  (  *  )  AND  [  ]  OR  COUNT  (  *  )  ,  LOCAL_TIMESTAMP  ) 

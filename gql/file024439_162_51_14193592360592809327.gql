@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  VARIABLE  PERCENTILE_CONT  ( b +  COUNT  (  *  )  ,  COUNT  (  *  )  ) 

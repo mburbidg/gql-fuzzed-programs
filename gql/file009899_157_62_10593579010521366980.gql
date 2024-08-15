@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE a WHEN  =  [  ]  /  SESSION_USER  * a THEN  NULL  END 

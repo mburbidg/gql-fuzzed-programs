@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  LOWER  (  COUNT  (  *  )  ||  COUNT  (  *  )  || c ) 

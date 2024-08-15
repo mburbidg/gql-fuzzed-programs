@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  ( b XOR b AND  NOT  COUNT  (  *  )  OR c OR c ) 

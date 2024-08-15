@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  $c GRAPH  {  (  )  ,  UNDIRECTED  EDGE a {  }  CONNECTING  ( c TO a )  }  =  CURRENT_GRAPH 

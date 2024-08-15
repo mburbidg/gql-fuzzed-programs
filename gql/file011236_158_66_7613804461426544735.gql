@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CARDINALITY  ( b ||  TRIM  (  SESSION_USER  , b )  )  ) 

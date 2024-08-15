@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  ORDER  BY c OR  COUNT  (  *  )  AND  COUNT  (  *  )  XOR  SESSION_USER 

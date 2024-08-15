@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  COUNT  (  *  )  OR  NOT a XOR  COUNT  (  *  ) 

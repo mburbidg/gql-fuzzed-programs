@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = c OR c AND  SESSION_USER  IS  NOT  TRUE  XOR  [  ] 

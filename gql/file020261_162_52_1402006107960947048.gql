@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  SUM  ( a XOR  SESSION_USER  AND b OR  COUNT  (  *  )  ) 

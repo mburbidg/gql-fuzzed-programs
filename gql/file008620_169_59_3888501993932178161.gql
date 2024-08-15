@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ( c XOR  SESSION_USER  AND  NOT  COUNT  (  *  )  ) 

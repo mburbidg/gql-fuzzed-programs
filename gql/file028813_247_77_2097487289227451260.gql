@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET c =  { b : c OR c OR  COUNT  (  *  )  OR b XOR c } 

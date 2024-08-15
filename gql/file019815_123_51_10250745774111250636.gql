@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  MAX  ( c /  SESSION_USER  + a ) 

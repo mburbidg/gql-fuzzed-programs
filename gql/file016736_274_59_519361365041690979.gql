@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c = c OR  COUNT  (  *  )  XOR c XOR  COUNT  (  *  )  XOR c XOR  [  ]  XOR c

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { b :  CURRENT_TIME  - c / c *  SESSION_USER  } 

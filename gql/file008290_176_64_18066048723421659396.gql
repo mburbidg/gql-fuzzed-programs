@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  LOG10  ( b + a *  PATH_LENGTH  ( c )  ) 

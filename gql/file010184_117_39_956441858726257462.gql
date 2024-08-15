@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c STRING  ( 0xf , 8 )  =  CURRENT_DATE 

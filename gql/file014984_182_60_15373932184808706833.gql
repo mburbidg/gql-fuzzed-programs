@@ -1,1 +1,0 @@
- CALL b (  SESSION_USER  OR  COUNT  (  *  )  AND  NOT a AND a ) 

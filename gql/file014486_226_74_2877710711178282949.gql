@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  SET b =  { c :  CURRENT_DATE  , a : b AND c XOR  [  ]  } 

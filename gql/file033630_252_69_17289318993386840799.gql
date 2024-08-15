@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  MOD  (  COUNT  (  *  )  -  SESSION_USER  /  MOD  ( b , c )  ,  SESSION_USER  ) 

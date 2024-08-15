@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET b . c = a +  SESSION_USER  * +a

@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  MATCH  (  (  )  WHERE  [  ]  XOR c XOR  [  ]  XOR  SESSION_USER  XOR  COUNT  (  *  )  ) 

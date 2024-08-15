@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET b =  COUNT  (  *  )  + c * c * a IN  CURRENT_TIMESTAMP  END 

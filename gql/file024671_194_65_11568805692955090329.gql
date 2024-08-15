@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  POWER  (  SESSION_USER  , c +  CARDINALITY  (  TABLE a )  - b )  ) 

@@ -1,1 +1,0 @@
- SET b =  { a : c OR b OR a OR  [  ]  OR  COUNT  (  *  )  } 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  FLOOR  (  COUNT  (  *  )  -  SESSION_USER  / a *  COUNT  (  *  )  -  SESSION_USER  -  [  ]  ) 

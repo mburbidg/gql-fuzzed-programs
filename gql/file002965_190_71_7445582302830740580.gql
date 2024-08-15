@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET a =  { a :  CURRENT_DATE  , a : c OR  SESSION_USER  } 

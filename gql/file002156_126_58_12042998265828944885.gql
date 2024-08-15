@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LTRIM  ( c ||  (  LOCAL_TIMESTAMP  )  )  ) 

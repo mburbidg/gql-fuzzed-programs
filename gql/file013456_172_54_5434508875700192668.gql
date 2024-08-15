@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( c ||  RIGHT  ( c ||  COUNT  (  *  )  ,  SESSION_USER  )  ) 

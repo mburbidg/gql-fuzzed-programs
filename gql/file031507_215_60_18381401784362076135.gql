@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  COS  ( a +  COUNT  (  *  )  * - [  ]  + b ) 

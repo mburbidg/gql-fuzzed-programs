@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  MOD  ( b +  SESSION_USER  *  COUNT  (  *  )  *  SESSION_USER  /  COUNT  (  *  )  +  COUNT  (  *  )  ,  COUNT  (  *  )  )  ) 

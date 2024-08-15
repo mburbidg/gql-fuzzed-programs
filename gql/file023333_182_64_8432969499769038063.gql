@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  SINH  (  COUNT  (  *  )  -  CARDINALITY  (  TABLE b )  * a )  ) 

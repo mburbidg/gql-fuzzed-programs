@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  POWER  (  COUNT  (  *  )  + +b +  SESSION_USER  + a ,  COUNT  (  *  )  ) 

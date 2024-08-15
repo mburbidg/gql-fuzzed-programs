@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE b WHEN  <>  CURRENT_DATE  + c * a * a -  COUNT  (  *  )  THEN  NULL  END 

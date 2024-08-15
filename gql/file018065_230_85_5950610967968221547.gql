@@ -1,1 +1,0 @@
- MATCH  (  (  )  WHERE c AND a XOR  COUNT  (  *  )  XOR a ) 

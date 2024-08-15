@@ -1,1 +1,0 @@
- SELECT  *  FROM  (  GRAPH  CURRENT_GRAPH  )  MATCH  (  ) 

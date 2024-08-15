@@ -1,1 +1,0 @@
- USE  ( a XOR  SESSION_USER  )  INSERT  (  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  RIGHT  ( c , b *  CARDINALITY  (  TABLE c )  + c )  ) 

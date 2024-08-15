@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  COUNT  (  *  )  /  ABS  ( c )  * a / a

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c ANY  <  STRING  ( 9 )  >  =  LOCAL_TIMESTAMP 

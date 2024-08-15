@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b =  CURRENT_TIME  IN a XOR  COUNT  (  *  )  AND  [  ]  AND  [  ]  END 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE c WHEN  >= a - b *  SESSION_USER  /  COUNT  (  *  )  -  SESSION_USER  THEN  NULL  END 

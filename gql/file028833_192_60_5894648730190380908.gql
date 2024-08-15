@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  COUNT  (  *  )  /  ABS  (  SESSION_USER  )  *  SESSION_USER  * c

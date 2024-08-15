@@ -1,1 +1,0 @@
- FILTER  WHERE c XOR  COUNT  (  *  )  OR b XOR a

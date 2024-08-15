@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET b =  { b :  CURRENT_DATE  , c :  COUNT  (  *  )  XOR a XOR  SESSION_USER  } 

@@ -1,1 +1,0 @@
- MATCH  (  { c :  CURRENT_DATE  , a :  SESSION_USER  }  ) 

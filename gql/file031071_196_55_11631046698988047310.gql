@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  LOCAL_TIMESTAMP  -  CARDINALITY  (  TABLE a )  /  COUNT  (  *  )  *  COUNT  (  *  ) 

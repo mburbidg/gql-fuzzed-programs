@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE  WHEN a OR  SESSION_USER  AND  [  ]  AND a XOR  COUNT  (  *  )  XOR  COUNT  (  *  )  THEN  NULL  END 

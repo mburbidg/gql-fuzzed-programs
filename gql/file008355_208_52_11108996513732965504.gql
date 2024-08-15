@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  +  COUNT  (  *  )  /  COUNT  (  *  )  - c AS  BOOLEAN  ) 

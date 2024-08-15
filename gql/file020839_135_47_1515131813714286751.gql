@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  ( b IS  FALSE  AND  COUNT  (  *  )  XOR b ) 

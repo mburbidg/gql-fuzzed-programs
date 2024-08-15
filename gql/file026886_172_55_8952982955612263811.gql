@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  (  SESSION_USER  - a - c - b ,  CURRENT_DATE  ) 

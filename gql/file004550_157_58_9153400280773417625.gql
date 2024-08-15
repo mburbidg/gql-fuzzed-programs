@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a NODE a LABEL c { c ANY  }  =  CURRENT_DATE 

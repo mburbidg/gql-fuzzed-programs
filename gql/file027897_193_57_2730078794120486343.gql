@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  COUNT  (  *  )  OR  [  ]  AND  NOT c OR b } 

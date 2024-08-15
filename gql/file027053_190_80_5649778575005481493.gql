@@ -1,1 +1,0 @@
- INSERT  (  { c :  CURRENT_TIME  , b : a AND  SESSION_USER  }  ) 

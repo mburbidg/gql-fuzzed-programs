@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  [  ]  AND c XOR  [  ]  ,  CURRENT_TIME  ) 

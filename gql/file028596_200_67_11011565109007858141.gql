@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LN  (  COUNT  (  *  )  +  COUNT  (  *  )  /  ABS  ( c )  )  ) 

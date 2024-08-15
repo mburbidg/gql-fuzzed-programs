@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE b WHEN  <>  (  [  ]  XOR  [  ]  OR c XOR c )  THEN  NULL  END 

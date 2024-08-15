@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE  WHEN b THEN  [  ]  XOR  [  ]  AND b XOR  [  ]  OR a END 

@@ -1,0 +1,1 @@
+ SET a =  { a : b AND  SESSION_USER  AND  SESSION_USER  } 

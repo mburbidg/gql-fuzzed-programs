@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { c BOOL  LIST  }  )  =  CURRENT_TIME 

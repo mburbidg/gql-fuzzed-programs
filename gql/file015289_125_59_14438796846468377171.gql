@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE a WHEN  >= b * -a THEN  NULL  END 

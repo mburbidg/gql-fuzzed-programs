@@ -1,0 +1,1 @@
+ INSERT  (  )  -[  ]->  ( b : c { b :  CURRENT_TIMESTAMP  }  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  ( b +  CURRENT_TIME  -  [  ]  AS  NULL  ) 

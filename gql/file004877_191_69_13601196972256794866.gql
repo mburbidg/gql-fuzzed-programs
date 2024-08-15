@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  )  -[  IS a & b { a :  LOCAL_TIMESTAMP  }  ]->  (  ) 

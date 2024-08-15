@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING  NOT  COUNT  (  *  )  AND b

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { a :  CURRENT_TIMESTAMP  , a :  COUNT  (  *  )  XOR a AND  SESSION_USER  XOR b } 

@@ -1,1 +1,0 @@
- MATCH  (  (  )  WHERE  SESSION_USER  XOR  [  ]  XOR c OR c OR c ) 

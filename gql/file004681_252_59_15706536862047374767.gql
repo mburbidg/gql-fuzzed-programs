@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  TRIM  (  COUNT  (  *  )  ,  SESSION_USER  -  [  ]  *  SESSION_USER  - b + c ) 

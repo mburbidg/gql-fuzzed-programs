@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CHARACTER_LENGTH  (  LOWER  ( b )  ||  SESSION_USER  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  (  CURRENT_DATE  ,  NOT b XOR  COUNT  (  *  )  ) 

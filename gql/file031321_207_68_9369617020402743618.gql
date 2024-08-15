@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  ABS  ( c -  SESSION_USER  *  LOG  ( c ,  SESSION_USER  )  ) 

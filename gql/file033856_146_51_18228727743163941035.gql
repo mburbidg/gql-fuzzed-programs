@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  SESSION_USER  +  (  LOCAL_TIMESTAMP  )  - b

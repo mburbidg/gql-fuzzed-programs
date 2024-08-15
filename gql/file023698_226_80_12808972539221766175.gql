@@ -1,1 +1,0 @@
- INSERT  (  { a :  CURRENT_TIME  , c :  COUNT  (  *  )  -  COUNT  (  *  )  }  ) 

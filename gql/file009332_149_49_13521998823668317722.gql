@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $b TABLE  { a STRING  ( 8 , 8 )  }  = b

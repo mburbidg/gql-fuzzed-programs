@@ -1,1 +1,0 @@
- INSERT  (  )  <-[ a IS b { a :  LOCAL_TIMESTAMP  , b :  LOCAL_TIMESTAMP  }  ]-  (  ) 

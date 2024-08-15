@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  DELETE a OR a AND  NOT  [  ]  AND  COUNT  (  *  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COSH  ( c + b * a + a +  SESSION_USER  ) 

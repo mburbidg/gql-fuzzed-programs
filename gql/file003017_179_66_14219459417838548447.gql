@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { b FLOAT  ( 9 , 9 )  }  )  =  CURRENT_TIME 

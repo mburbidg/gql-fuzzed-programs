@@ -1,1 +1,0 @@
- SET c . a =  SESSION_USER  XOR  NOT b OR b

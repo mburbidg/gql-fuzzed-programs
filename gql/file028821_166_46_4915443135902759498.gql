@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  $a GRAPH  {  DIRECTED  EDGE a (  )  ~[  IMPLIES  ]~  (  )  }  =  CURRENT_GRAPH 

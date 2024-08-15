@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  FLOOR  ( a -  SESSION_USER  *  SQRT  (  SESSION_USER  )  )  ) 

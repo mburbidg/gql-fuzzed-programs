@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LEFT  ( a , c -  COUNT  (  *  )  /  (  CURRENT_TIMESTAMP  )  )  ) 

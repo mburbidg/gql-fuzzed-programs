@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CURRENT_DATE  -  SESSION_USER  /  ABS  (  [  ]  )  -  SESSION_USER  ) 

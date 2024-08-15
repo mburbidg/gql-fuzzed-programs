@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  SQRT  (  CARDINALITY  (  TABLE c )  * a )  ) 

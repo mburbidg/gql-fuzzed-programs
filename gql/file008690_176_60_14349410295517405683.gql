@@ -1,1 +1,0 @@
- CALL c (  LOCAL_TIMESTAMP  +  COUNT  (  *  )  *  SESSION_USER  + a ) 

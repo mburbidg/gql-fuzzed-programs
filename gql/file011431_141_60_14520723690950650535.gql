@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LOWER  (  SESSION_USER  ||  LTRIM  (  SESSION_USER  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  DURATION_BETWEEN  (  CURRENT_DATE  -  COUNT  (  *  )  *  LN  (  [  ]  )  ,  CURRENT_TIME  ) 

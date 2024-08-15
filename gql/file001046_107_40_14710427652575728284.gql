@@ -1,0 +1,1 @@
+ VALUE c CHAR  ( 8 )  =  CURRENT_DATE  FINISH 

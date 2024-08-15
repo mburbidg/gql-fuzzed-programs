@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { a :  [  ]  AND  SESSION_USER  AND c XOR b } 

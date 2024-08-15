@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  { c :  CURRENT_TIMESTAMP  - b +  COUNT  (  *  )  } 

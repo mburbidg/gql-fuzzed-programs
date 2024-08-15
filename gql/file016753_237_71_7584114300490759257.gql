@@ -1,1 +1,0 @@
- SET b =  { c :  DURATION_BETWEEN  (  CURRENT_DATE  ,  LOCAL_TIMESTAMP  )  +  LOCAL_TIMESTAMP  -  [  ]  +  [  ]  } 

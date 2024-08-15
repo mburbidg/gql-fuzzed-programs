@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  { c FLOAT64   NOT  NULL  }  )  =  CURRENT_TIME 

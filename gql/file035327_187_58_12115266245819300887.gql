@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  COUNT  (  *  )  AND  NOT b OR a

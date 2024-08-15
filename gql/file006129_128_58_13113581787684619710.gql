@@ -1,0 +1,1 @@
+ SELECT  [  ]  XOR  SESSION_USER  AND a

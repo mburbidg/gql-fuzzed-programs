@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a DEC  ( 1 )  =  CURRENT_DATE 

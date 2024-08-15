@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE c WHEN  <=  COUNT  (  *  )  +  [  ]  /  CARDINALITY  (  TABLE b )  THEN  NULL  END 

@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  SET c . b =  CURRENT_DATE  -  COUNT  (  *  )  / a -  SESSION_USER 

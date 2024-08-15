@@ -1,1 +1,0 @@
- SELECT a *  SESSION_USER  /  COUNT  (  *  ) 

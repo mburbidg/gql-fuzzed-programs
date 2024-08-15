@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  SESSION_USER  OR  NOT a AND  [  ]  XOR c OR b ) 

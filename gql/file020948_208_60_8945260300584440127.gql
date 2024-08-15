@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a = b XOR  COUNT  (  *  )  OR b XOR a XOR c IN  CURRENT_TIME  END 

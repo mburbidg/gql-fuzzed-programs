@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  (  [  ]  XOR  [  ]  OR b OR c ,  LOCAL_TIMESTAMP  ) 

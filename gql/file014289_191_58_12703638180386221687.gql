@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  DURATION_BETWEEN  ( a *  [  ]  * b +  CURRENT_TIME  ,  LOCAL_TIMESTAMP  ) 

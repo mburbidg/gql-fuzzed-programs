@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c = c ||  CASE a WHEN  IS  NULL  THEN  NULL  END 

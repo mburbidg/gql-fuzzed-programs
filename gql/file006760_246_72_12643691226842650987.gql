@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET c =  { b :  COUNT  (  *  )  XOR c AND  [  ]  OR  COUNT  (  *  )  } 

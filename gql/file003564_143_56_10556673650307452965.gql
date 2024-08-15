@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a ANY   NOT  NULL  }  )  =  CURRENT_TIME 

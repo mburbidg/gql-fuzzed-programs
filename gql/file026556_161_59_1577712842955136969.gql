@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  (  [  ]  XOR  SESSION_USER  AND b ) 

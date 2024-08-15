@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  ALL_DIFFERENT  ( b , b )  XOR a

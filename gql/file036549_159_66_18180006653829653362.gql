@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c (  { b FLOAT  ARRAY  }  )  =  CURRENT_TIME 

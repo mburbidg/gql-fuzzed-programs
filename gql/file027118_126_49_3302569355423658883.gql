@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  ( b AND  NOT  [  ]  ,  CURRENT_DATE  ) 

@@ -1,1 +1,0 @@
- SET c =  { b :  COUNT  (  *  )  OR a AND  COUNT  (  *  )  XOR c } 

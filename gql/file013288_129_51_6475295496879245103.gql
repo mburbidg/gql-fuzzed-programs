@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET a = c AND  NOT  COUNT  (  *  )  IN  CURRENT_TIME  END 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { a :  LOCAL_TIMESTAMP  , b :  CURRENT_DATE  +  COUNT  (  *  )  + b } 

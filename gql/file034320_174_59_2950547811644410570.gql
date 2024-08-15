@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  (  COUNT  (  *  )  XOR a AND  NOT  COUNT  (  *  )  )  ) 

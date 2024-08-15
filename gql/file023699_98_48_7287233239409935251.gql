@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a =  [  ]  IN  CURRENT_DATE  END 

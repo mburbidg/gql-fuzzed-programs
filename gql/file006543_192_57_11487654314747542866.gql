@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  ( a XOR b OR c XOR  [  ]  XOR  SESSION_USER  AS  PATH  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  DURATION_BETWEEN  (  CURRENT_DATE  ,  CURRENT_TIME  )  +  CURRENT_DATE  - b -  COUNT  (  *  )  -  SESSION_USER  - c -  COUNT  (  *  )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE a WHEN  <=  [  ]  * b +  CURRENT_DATE  THEN  NULL  END 

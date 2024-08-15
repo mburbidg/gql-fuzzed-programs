@@ -1,0 +1,1 @@
+ DELETE  SESSION_USER  XOR  COUNT  (  *  )  OR a OR c

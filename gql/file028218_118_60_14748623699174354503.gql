@@ -1,1 +1,0 @@
- FILTER c XOR  NOT c XOR b

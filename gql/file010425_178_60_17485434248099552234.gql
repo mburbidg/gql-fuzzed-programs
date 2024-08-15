@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE  WHEN c THEN  CURRENT_TIME  + c *  COUNT  (  *  )  + c END 

@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET c =  { ac :  CURRENT_DATE  } 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c (  { a ANY  , c RECORD   NOT  NULL  }  )  =  CURRENT_DATE 

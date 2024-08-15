@@ -1,0 +1,1 @@
+ SET c =  { b : a OR b AND  NOT  COUNT  (  *  )  } 

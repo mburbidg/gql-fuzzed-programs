@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a BINARY  ( 0o5 )  =  CURRENT_TIME 

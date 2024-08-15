@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c BINARY  ( 0xc )  =  CURRENT_TIME 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  STDDEV_SAMP  (  CURRENT_TIMESTAMP  -  COUNT  (  *  )  *  COUNT  (  *  )  +  [  ]  ) 

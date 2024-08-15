@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE c OR  SESSION_USER  AND c XOR b OR c

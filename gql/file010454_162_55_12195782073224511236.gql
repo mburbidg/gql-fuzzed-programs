@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE  NOT  SESSION_USER  XOR  COUNT  (  *  ) 

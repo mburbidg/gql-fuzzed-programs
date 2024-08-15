@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  POWER  (  COUNT  (  *  )  +  LOG10  (  SESSION_USER  )  , b )  ) 

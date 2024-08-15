@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  ( c ||  TRIM  ( a )  FROM b )  ) 

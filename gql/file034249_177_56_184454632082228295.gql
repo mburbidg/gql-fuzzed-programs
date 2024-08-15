@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE c OR a AND c IS  NOT  FALSE 

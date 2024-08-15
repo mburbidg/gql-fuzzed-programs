@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a ARRAY  <  {  }   NOT  NULL  >  =  CURRENT_TIMESTAMP 

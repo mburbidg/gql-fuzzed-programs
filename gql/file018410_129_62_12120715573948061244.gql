@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  (  CURRENT_TIME  + a )  IS  NULL 

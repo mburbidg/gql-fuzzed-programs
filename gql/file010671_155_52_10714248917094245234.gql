@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b = a OR c AND  NOT  COUNT  (  *  )  IN  CURRENT_DATE  END 

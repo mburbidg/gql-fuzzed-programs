@@ -1,1 +1,0 @@
- DELETE c XOR  COUNT  (  *  )  OR  COUNT  (  *  )  XOR b XOR c

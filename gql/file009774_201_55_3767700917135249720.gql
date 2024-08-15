@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  LET a = a -  COUNT  (  *  )  / c -  COUNT  (  *  )  IN  LOCAL_TIMESTAMP  END 

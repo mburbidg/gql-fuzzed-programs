@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  PERCENTILE_DISC  (  COUNT  (  *  )  - a *  CARDINALITY  (  TABLE c )  + a , b ) 

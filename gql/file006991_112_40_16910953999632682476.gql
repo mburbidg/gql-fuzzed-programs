@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a TABLE  { b BYTES   NOT  NULL  }  = b

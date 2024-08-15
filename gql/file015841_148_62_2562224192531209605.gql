@@ -1,1 +1,0 @@
- SELECT  LOCAL_TIMESTAMP  - a /  [  ]  +  SESSION_USER 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  TANH  (  LOG10  (  COUNT  (  *  )  )  )  ) 

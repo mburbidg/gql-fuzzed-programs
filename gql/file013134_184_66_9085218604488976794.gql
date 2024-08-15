@@ -1,1 +1,0 @@
- FILTER c OR b OR  SESSION_USER  OR  COUNT  (  *  )  OR c

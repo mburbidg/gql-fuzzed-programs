@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { a : b XOR  NOT b AND  SESSION_USER  } 

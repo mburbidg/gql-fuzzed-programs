@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  ( c + a / b +  COUNT  (  *  )  ,  CURRENT_DATE  ) 

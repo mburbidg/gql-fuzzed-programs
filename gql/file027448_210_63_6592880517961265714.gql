@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  FLOOR  (  COUNT  (  *  )  - c / a /  SESSION_USER  +  SESSION_USER  )  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COALESCE  ( a +  [  ]  - b + a ,  CURRENT_TIME  ) 

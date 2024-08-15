@@ -1,0 +1,1 @@
+ MATCH  (  (  )  WHERE  COUNT  (  *  )  OR  COUNT  (  *  )  AND  NOT  SESSION_USER  ) 

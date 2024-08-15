@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { c FLOAT32   NOT  NULL  }  )  =  LOCAL_TIMESTAMP 

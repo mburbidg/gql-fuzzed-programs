@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  HAVING  SESSION_USER  OR  COUNT  (  *  )  IS  TRUE 

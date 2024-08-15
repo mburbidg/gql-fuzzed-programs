@@ -1,1 +1,0 @@
- FILTER b OR  COUNT  (  *  )  AND a XOR  [  ]  OR  [  ] 

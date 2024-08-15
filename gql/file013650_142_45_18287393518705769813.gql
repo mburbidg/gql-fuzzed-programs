@@ -1,1 +1,0 @@
- SESSION  SET  TABLE  $c TABLE  { a ANY  , c FLOAT256   NOT  NULL  }  = b

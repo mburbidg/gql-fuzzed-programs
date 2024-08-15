@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  COUNT  (  *  )  + a /  CARDINALITY  (  TABLE b )  * c * c

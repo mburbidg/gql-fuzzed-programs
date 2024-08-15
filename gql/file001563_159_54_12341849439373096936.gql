@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET a =  COUNT  (  *  )  + a - c IN  LOCAL_TIMESTAMP  END 

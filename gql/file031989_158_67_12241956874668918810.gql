@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  BTRIM  ( a ,  SESSION_USER  ||  TRIM  (  SESSION_USER  )  )  ) 

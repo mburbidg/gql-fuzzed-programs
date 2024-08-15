@@ -1,0 +1,1 @@
+ SET c . a = b + a /  SESSION_USER 

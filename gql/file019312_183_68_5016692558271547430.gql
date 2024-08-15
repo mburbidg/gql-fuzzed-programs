@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  INSERT  (  )  ,  ( a : c { c :  CURRENT_TIME  }  ) 

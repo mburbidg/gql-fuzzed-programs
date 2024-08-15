@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  CEIL  (  COUNT  (  *  )  + c / a -  COUNT  (  *  )  -  [  ]  + b )  ) 

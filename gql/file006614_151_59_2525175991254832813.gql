@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a (  { b ARRAY   NOT  NULL  }  )  =  CURRENT_TIME 

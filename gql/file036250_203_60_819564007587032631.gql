@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  DEGREES  (  SESSION_USER  - a * - COUNT  (  *  )  + c ) 

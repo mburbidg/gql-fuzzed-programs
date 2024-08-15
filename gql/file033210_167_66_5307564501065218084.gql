@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  LN  (  SESSION_USER  /  LOG10  (  COUNT  (  *  )  )  ) 

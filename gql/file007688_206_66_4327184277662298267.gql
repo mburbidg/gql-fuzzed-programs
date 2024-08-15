@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  LET c =  CURRENT_TIME  , b =  COUNT  (  *  )  OR b AND  [  ] 

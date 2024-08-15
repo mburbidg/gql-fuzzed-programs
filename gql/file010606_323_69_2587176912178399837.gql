@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  LOG  (  [  ]  , b -  COUNT  (  *  )  - b - b -  COUNT  (  *  )  -  [  ]  ) 

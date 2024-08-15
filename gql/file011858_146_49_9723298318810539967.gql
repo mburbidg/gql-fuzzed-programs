@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  + c /  SESSION_USER  AS  PATH  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  FLOOR  (  COUNT  (  *  )  +  CARDINALITY  (  TABLE c )  / c ) 

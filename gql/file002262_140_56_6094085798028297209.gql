@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  IMPLIES  LABELS c & b )  =  CURRENT_TIME 

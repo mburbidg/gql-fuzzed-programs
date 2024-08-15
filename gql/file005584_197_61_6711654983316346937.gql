@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING c OR c OR c OR  SESSION_USER 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c (  { c NULL  , b TABLE  {  }  }  )  =  LOCAL_TIMESTAMP 

@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  WHERE  COUNT  (  *  )  XOR c OR a OR  SESSION_USER 

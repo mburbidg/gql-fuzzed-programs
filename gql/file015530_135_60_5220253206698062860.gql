@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LEFT  (  TRIM  (  SESSION_USER  )  , a )  ) 

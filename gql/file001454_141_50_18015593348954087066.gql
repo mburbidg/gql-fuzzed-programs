@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  [  ]  *  COUNT  (  *  )  ,  CURRENT_TIME  ) 

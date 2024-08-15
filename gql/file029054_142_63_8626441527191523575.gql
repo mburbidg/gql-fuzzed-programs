@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET a . c = b XOR a IS  NOT  FALSE 

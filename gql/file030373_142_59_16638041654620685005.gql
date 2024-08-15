@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LEFT  (  CASE c WHEN  IS  DIRECTED  THEN  NULL  END  , a )  ) 

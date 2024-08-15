@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  ( a ||  PERCENTILE_DISC  (  [  ]  ,  SESSION_USER  )  ) 

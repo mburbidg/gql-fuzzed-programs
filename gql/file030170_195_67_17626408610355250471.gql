@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  POWER  (  COUNT  (  *  )  ,  SESSION_USER  /  FLOOR  (  SESSION_USER  )  ) 

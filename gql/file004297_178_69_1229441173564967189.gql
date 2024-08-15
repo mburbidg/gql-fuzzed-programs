@@ -1,0 +1,1 @@
+ SET b =  { b :  CURRENT_DATE  - b -  COUNT  (  *  )  } 

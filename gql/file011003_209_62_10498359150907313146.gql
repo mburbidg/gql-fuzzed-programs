@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SIN  ( c * c /  [  ]  +  COUNT  (  *  )  ) 

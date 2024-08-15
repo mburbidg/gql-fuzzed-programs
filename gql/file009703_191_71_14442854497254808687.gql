@@ -1,1 +1,0 @@
- MATCH  (  )  WHERE c XOR c XOR c OR b

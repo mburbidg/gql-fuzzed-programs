@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  COLLECT_LIST  ( c XOR  SESSION_USER  OR  COUNT  (  *  )  OR  [  ]  OR b ) 

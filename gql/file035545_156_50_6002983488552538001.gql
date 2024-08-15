@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c = a AND c IS  NOT  TRUE  AND c XOR b

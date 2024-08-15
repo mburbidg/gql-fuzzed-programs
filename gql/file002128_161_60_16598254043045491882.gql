@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE c WHEN  PERCENTILE_CONT  (  COUNT  (  *  )  ,  [  ]  )  THEN  NULL  END 

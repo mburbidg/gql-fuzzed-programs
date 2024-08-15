@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET a =  { a : c XOR  SESSION_USER  IS  FALSE  } 

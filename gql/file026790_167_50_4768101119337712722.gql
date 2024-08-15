@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c = a AND a XOR b OR  COUNT  (  *  ) 

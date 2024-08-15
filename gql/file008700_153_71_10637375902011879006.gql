@@ -1,0 +1,1 @@
+ INSERT  (  { c :  DURATION_BETWEEN  (  LOCAL_TIMESTAMP  ,  CURRENT_DATE  )  }  ) 

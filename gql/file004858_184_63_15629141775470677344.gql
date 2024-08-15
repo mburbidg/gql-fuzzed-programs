@@ -1,0 +1,1 @@
+ SELECT  [  ]  XOR c XOR  [  ]  XOR  COUNT  (  *  ) 

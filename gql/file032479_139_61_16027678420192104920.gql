@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  OCTET_LENGTH  (  (  CURRENT_DATE  )  || a ) 

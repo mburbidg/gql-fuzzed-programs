@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  TRIM  (  RTRIM  ( c )  FROM  SESSION_USER  )  ) 

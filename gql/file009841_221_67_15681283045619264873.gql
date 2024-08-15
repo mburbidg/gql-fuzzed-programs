@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE a WHEN  <=  CURRENT_TIME  -  [  ]  *  COUNT  (  *  )  + c - b THEN  NULL  END 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  MOD  ( c + c * a + c + a ,  COUNT  (  *  )  ) 

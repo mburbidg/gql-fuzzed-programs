@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  RADIANS  (  COUNT  (  *  )  +  [  ]  /  (  CURRENT_TIMESTAMP  )  )  ) 

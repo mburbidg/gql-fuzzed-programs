@@ -1,1 +1,0 @@
- MATCH  (  { b :  CURRENT_DATE  , b :  CURRENT_TIME  }  ) 

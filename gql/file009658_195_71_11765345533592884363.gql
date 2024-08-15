@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  )  ,  (  )  <-[  ]-  ( a { c :  CURRENT_TIMESTAMP  }  ) 

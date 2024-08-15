@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  RIGHT  ( b ,  LN  (  SESSION_USER  )  ) 

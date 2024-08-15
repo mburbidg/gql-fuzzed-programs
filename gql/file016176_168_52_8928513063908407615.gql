@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  ( c OR  COUNT  (  *  )  AND  NOT a AND  SESSION_USER  AS  NULL  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  (  SESSION_USER  -  [  ]  * a ,  CURRENT_DATE  ) 

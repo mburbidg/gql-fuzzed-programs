@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  MOD  (  SESSION_USER  - a /  CARDINALITY  (  TABLE b )  * c ,  SESSION_USER  ) 

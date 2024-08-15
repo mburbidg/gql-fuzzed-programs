@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a UINT  ( 1 )  =  CURRENT_TIME 

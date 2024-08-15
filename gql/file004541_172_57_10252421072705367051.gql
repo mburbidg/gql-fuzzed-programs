@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { c PROPERTY  VALUE  , c TYPED  PATH  }  )  =  CURRENT_TIME 

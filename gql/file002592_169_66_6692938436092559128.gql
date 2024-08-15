@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  CARDINALITY  (  SESSION_USER  ||  TRIM  (  SESSION_USER  , b )  ) 

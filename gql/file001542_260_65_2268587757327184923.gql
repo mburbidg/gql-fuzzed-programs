@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  FLOOR  (  COUNT  (  *  )  -  COUNT  (  *  )  +  COUNT  (  *  )  + c + b ) 

@@ -1,1 +1,0 @@
- SELECT  *  FROM  CURRENT_GRAPH  MATCH  (  )  ,  HOME_SCHEMA  /a . c MATCH  (  ) 

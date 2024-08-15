@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  SUM  (  CURRENT_TIME  - a * +b ) 

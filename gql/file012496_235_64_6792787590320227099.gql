@@ -1,1 +1,0 @@
- SELECT  *  FROM  {  FINISH  }  WHERE c XOR b XOR b XOR  [  ]  OR b

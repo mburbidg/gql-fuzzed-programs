@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c DECIMAL  ( 9 , 2 )  =  CURRENT_TIME 

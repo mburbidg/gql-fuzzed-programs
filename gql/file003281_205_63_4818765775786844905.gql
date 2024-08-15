@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  MOD  ( c , b + b /  CARDINALITY  (  TABLE a )  ) 

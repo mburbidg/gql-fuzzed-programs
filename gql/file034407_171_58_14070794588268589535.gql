@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  CURRENT_DATE  - a /  LOG10  ( a )  + c

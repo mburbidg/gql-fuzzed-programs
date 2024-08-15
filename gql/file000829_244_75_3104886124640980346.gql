@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  SET c =  { a : a OR c AND  SESSION_USER  XOR  COUNT  (  *  )  OR b } 

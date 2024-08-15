@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  RIGHT  (  SESSION_USER  , c -  SESSION_USER  * c * b -  COUNT  (  *  )  ) 

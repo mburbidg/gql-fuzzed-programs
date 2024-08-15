@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  (  CURRENT_DATE  - b *  COUNT  (  *  )  * b AS  PROPERTY  VALUE  ) 

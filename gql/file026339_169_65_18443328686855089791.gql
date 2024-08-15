@@ -1,1 +1,0 @@
- USE  CURRENT_PROPERTY_GRAPH  FOR b IN  TRIM  ( b ,  COUNT  (  *  )  -  SESSION_USER  ) 

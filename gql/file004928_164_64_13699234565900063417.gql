@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  LTRIM  (  SESSION_USER  ,  UPPER  (  [  ]  ||  SESSION_USER  )  )  ) 

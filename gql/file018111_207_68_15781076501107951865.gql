@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  FLOOR  (  SESSION_USER  - a *  MOD  (  SESSION_USER  , c )  ) 

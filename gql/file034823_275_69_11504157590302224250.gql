@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  LOG  (  [  ]  ,  [  ]  -  SESSION_USER  /  LOG  (  COUNT  (  *  )  , a )  ) 

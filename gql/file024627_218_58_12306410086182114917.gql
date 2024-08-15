@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  NULLIF  (  CURRENT_TIME  ,  COUNT  (  *  )  XOR  [  ]  XOR  SESSION_USER  OR c XOR a ) 

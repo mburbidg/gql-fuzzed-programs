@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  INSERT  (  )  <-[  IS c { c :  LOCAL_TIMESTAMP  , a :  CURRENT_TIME  }  ]-  (  ) 

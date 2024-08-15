@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  (  (  COUNT  (  *  )  XOR  SESSION_USER  AND a IS  UNKNOWN  XOR  [  ]  )  ) 

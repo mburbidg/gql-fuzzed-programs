@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ( c XOR c OR a XOR c XOR a )  ) 

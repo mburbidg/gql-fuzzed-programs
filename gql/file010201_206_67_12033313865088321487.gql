@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LTRIM  ( c , b ||  LEFT  (  [  ]  , a )  ) 

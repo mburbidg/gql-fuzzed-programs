@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  OCTET_LENGTH  ( a ||  LEFT  ( c ,  [  ]  )  ) 

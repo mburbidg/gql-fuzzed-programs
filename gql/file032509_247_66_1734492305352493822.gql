@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $c =  POWER  ( c - a *  CARDINALITY  (  TABLE c )  / a ,  COUNT  (  *  )  ) 

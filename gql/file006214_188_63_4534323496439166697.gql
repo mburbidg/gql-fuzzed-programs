@@ -1,0 +1,1 @@
+ INSERT  (  )  RETURN  COUNT  (  *  )  XOR  COUNT  (  *  )  AND  SESSION_USER 

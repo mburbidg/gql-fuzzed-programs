@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CAST  ( c /  COUNT  (  *  )  *  SESSION_USER  AS  BOOL  ) 

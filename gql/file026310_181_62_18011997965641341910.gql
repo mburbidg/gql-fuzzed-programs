@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  LEFT  (  LET c =  LOCAL_TIMESTAMP  IN  CURRENT_DATE  END  ,  COUNT  (  *  )  ) 

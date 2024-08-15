@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  TRIM  ( c ,  COUNT  (  *  )  +  COUNT  (  *  )  *  POWER  ( a ,  [  ]  )  ) 

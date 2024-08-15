@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a FLOAT  ( 8 , 89 )  =  CURRENT_TIME 

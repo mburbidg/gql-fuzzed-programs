@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  { c :  SESSION_USER  - c * -c } 

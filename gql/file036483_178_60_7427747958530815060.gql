@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  CASE a WHEN  <>  CURRENT_TIME  -  COUNT  (  *  )  *  DURATION  (  {  }  )  THEN  NULL  END 

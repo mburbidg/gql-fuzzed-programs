@@ -1,1 +1,0 @@
- SET b =  { c : c XOR  SESSION_USER  AND  NOT c XOR b } 

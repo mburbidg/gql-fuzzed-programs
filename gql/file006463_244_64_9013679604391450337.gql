@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  RIGHT  (  [  ]  , a + b - a + c - b ) 

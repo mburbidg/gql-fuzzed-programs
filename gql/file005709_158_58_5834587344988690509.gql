@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { c DURATION  (  DAY  TO  SECOND  )  }  )  =  LOCAL_TIMESTAMP 

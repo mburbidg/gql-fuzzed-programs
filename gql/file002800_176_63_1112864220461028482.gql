@@ -1,1 +1,0 @@
- SET b . c =  DURATION_BETWEEN  (  CURRENT_DATE  ,  CURRENT_TIME  )  + b - b

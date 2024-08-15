@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $a =  CEILING  (  SESSION_USER  + c *  CARDINALITY  (  TABLE c )  - b ) 

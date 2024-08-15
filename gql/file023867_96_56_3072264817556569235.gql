@@ -1,1 +1,0 @@
- CREATE  GRAPH  TYPE b LIKE  ( a ) 

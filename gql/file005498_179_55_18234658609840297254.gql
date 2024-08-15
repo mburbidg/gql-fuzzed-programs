@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  ( c OR b XOR  [  ]  XOR b ,  LOCAL_TIMESTAMP  ) 

@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b ARRAY  <  VARBINARY  ( 0o2 )  >  =  CURRENT_DATE 

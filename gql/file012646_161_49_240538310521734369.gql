@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  XOR  COUNT  (  *  )  AND  NOT  SESSION_USER  AS  BOOLEAN  ) 

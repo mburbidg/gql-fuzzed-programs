@@ -1,1 +1,0 @@
- SESSION  SET  GRAPH  VARIABLE  ( b XOR a AND  NOT b ) 

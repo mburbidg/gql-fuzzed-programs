@@ -1,1 +1,0 @@
- USE  CURRENT_GRAPH  DELETE c XOR  COUNT  (  *  )  AND  NOT c

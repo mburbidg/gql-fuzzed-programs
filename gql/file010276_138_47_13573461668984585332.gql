@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  NOT c XOR  SESSION_USER  XOR  [  ] 

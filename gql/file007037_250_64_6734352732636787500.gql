@@ -1,1 +1,0 @@
- SESSION  SET  VALUE  $b =  MOD  ( b - c * c + b + b ,  [  ]  ) 

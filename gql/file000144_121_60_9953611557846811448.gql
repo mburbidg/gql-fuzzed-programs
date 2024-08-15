@@ -1,1 +1,0 @@
- SELECT a XOR  NOT b XOR a

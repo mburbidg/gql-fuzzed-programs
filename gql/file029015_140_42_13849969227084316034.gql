@@ -1,1 +1,0 @@
- SESSION  SET  TABLE  $a TABLE  { c ANY  , b BOOLEAN   NOT  NULL  }  = a

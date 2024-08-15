@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  ( b OR  [  ]  AND  [  ]  XOR b ,  CURRENT_TIME  ) 
