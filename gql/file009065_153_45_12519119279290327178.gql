@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = a XOR  [  ]  AND  NOT  COUNT  (  *  ) 

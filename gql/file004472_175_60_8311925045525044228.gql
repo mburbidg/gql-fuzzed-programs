@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  RTRIM  (  COUNT  (  *  )  ,  LOWER  (  COUNT  (  *  )  )  ) 

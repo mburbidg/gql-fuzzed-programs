@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( b XOR  COUNT  (  *  )  AND  [  ]  AND  COUNT  (  *  )  AND c AS  NULL  ) 

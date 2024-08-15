@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ABS  ( a *  POWER  ( a ,  SESSION_USER  )  ) 

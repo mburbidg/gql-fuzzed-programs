@@ -1,0 +1,1 @@
+ SELECT  COUNT  (  *  )  XOR a OR a XOR  COUNT  (  *  )  OR  COUNT  (  *  ) 

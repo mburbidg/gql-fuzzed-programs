@@ -1,0 +1,1 @@
+ SELECT  TRIM  (  SESSION_USER  ) 

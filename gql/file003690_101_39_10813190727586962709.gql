@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a CHAR  ( 0x8 )  =  CURRENT_DATE 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  COUNT  (  *  )  /  SQRT  (  SESSION_USER  )  * b ) 

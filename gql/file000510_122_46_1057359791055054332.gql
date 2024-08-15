@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a ANY  <  VARCHAR  ( 9 )  >  =  CURRENT_TIME 

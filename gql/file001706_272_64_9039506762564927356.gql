@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  LEFT  (  COUNT  (  *  )  , a /  COUNT  (  *  )  * a + a +  [  ]  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  SQRT  (  SESSION_USER  +  [  ]  *  SESSION_USER  *  [  ]  + a - b ) 

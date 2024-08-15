@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LEFT  (  COUNT  (  *  )  ,  COT  (  SESSION_USER  )  ) 

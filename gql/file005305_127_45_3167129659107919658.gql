@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a ARRAY  <  CHAR  ( 0o3 )  >  =  CURRENT_TIME 

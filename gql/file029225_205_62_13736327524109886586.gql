@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN b OR c AND  [  ]  AND b OR a OR a THEN  NULL  END 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SINH  ( b /  CARDINALITY  (  TABLE a )  -  SESSION_USER  ) 

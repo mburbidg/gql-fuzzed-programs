@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b ANY  <  VARBINARY  ( 9 )  >  =  CURRENT_TIME 

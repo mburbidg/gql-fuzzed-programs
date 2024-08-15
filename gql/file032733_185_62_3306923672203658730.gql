@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ABS  ( a / a +  SESSION_USER  -  COUNT  (  *  )  )  ) 

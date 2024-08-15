@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  COUNT  (  *  )  THEN c - c * c / c END 

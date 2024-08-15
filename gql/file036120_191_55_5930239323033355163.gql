@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COUNT  (  *  )  +  SESSION_USER  /  PATH_LENGTH  ( a )  / b

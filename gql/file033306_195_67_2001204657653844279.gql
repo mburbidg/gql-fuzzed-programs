@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  MOD  (  LOG  ( c , a )  ,  [  ]  ) 

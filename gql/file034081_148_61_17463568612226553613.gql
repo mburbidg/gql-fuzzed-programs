@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { b ZONED  TIME   NOT  NULL  }  )  =  CURRENT_TIMESTAMP 

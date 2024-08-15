@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ABS  ( b -  COUNT  (  *  )  / b -  [  ]  +  SESSION_USER  ) 

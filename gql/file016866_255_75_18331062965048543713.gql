@@ -1,0 +1,1 @@
+ SET a =  { b :  CURRENT_DATE  , c :  [  ]  OR b AND c OR  [  ]  } 

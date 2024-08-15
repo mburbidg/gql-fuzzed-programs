@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  EXISTS  (  (  )  WHERE a OR  SESSION_USER  OR b ) 

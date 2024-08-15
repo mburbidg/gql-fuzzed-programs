@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  FLOOR  ( a +  SESSION_USER  / b * b / a /  SESSION_USER  ) 

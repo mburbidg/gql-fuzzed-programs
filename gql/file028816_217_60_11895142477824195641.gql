@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  ABS  (  COUNT  (  *  )  + -c *  COUNT  (  *  )  -  SESSION_USER  ) 

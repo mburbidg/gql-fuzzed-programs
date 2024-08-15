@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SESSION_USER  XOR c AND  [  ]  IS  TRUE  XOR c OR b

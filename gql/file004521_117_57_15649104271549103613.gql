@@ -1,0 +1,1 @@
+ SELECT  COUNT  (  *  )  XOR b IS  NOT  FALSE 

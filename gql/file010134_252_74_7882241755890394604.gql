@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET c =  { b :  CURRENT_DATE  , a : b +  COUNT  (  *  )  +  COUNT  (  *  )  } 

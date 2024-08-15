@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_DATE  - b * +a +  SESSION_USER  -  COUNT  (  *  )  - a ) 

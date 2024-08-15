@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TAN  (  SESSION_USER  - a / a *  COUNT  (  *  )  * a * a ) 

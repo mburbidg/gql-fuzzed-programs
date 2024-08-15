@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  [  ]  THEN  COUNT  (  *  )  OR a AND  COUNT  (  *  )  AND  [  ]  OR b END 

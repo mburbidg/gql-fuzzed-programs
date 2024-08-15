@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG  (  [  ]  ,  CARDINALITY  (  TABLE a )  -  SESSION_USER  ) 

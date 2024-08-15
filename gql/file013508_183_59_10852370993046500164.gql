@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_TIME  +  SESSION_USER  /  MOD  ( c ,  SESSION_USER  )  * c ) 

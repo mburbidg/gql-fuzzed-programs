@@ -1,0 +1,1 @@
+ SET c =  {  }  , c . c =  COUNT  (  *  )  XOR  SESSION_USER  XOR  COUNT  (  *  ) 

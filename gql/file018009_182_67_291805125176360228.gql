@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  POWER  ( c -  FLOOR  ( b )  ,  SESSION_USER  ) 

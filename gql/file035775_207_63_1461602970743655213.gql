@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RIGHT  ( c ,  [  ]  -  CARDINALITY  (  TABLE b )  /  SESSION_USER  ) 

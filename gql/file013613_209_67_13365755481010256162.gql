@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE c WHEN  <=  CURRENT_TIME  + c / a -  SESSION_USER  -  COUNT  (  *  )  THEN  NULL  END 

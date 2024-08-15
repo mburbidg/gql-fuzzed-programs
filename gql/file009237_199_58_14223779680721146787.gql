@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  [  CURRENT_DATE  ,  COUNT  (  *  )  OR  SESSION_USER  AND a AND  COUNT  (  *  )  ] 

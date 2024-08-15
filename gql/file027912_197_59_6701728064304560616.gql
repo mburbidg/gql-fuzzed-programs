@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING c XOR a AND  NOT c OR a

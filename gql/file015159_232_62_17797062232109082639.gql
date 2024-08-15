@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING c XOR  SESSION_USER  AND  [  ]  XOR c XOR a

@@ -1,0 +1,1 @@
+ SELECT b OR a AND  COUNT  (  *  )  OR  COUNT  (  *  )  OR  COUNT  (  *  ) 

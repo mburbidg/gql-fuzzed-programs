@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  (  COUNT  (  *  )  OR  COUNT  (  *  )  XOR  COUNT  (  *  )  OR c OR c ,  CURRENT_TIME  ) 

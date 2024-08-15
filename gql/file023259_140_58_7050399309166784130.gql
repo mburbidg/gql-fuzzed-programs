@@ -1,0 +1,1 @@
+ SELECT  SESSION_USER  OR  COUNT  (  *  )  AND c IS  NOT  TRUE 

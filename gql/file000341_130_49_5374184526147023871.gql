@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( a XOR  NOT a AND b AS  ANY  ) 

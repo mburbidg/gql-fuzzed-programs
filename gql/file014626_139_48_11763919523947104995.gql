@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( a OR  NOT a AND c OR  SESSION_USER  ) 

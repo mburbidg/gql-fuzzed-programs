@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  MIN  ( c +  CURRENT_DATE  +  COUNT  (  *  )  ) 

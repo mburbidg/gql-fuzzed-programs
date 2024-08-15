@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a BYTES  ( 0b0 , 9 )  }  )  =  CURRENT_DATE 

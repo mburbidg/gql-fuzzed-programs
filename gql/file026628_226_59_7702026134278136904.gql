@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CURRENT_TIMESTAMP  -  COUNT  (  *  )  *  POWER  (  SESSION_USER  ,  [  ]  )  + c

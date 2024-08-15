@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET a = a OR  [  ]  OR c OR  COUNT  (  *  )  OR  [  ]  IN  CURRENT_DATE  END 

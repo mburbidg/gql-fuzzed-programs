@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  POWER  (  COUNT  (  *  )  /  POWER  ( b ,  SESSION_USER  )  , a )  ) 

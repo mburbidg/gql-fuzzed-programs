@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  MOD  (  [  ]  +  SQRT  (  COUNT  (  *  )  )  ,  SESSION_USER  ) 

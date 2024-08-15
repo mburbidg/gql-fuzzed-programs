@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  { b :  LOCAL_TIMESTAMP  , c : c OR  COUNT  (  *  )  AND  COUNT  (  *  )  XOR a } 

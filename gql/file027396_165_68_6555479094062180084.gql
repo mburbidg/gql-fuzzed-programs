@@ -1,0 +1,1 @@
+ MATCH  (  )  WHERE c OR  NOT  SESSION_USER  OR c

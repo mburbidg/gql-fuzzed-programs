@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a = a XOR b AND  [  ]  IS  NOT  FALSE  XOR  COUNT  (  *  )  OR  SESSION_USER 

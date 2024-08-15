@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a VARBINARY  ( 0b1 )  }  )  =  CURRENT_TIMESTAMP 

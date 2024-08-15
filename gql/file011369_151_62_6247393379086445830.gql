@@ -1,0 +1,1 @@
+ SET c =  { b :  LOCAL_TIMESTAMP  , a :  TABLE b } 

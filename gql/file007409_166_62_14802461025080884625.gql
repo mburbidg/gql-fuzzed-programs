@@ -1,0 +1,1 @@
+ CALL b (  CURRENT_DATE  , c XOR a XOR c ) 

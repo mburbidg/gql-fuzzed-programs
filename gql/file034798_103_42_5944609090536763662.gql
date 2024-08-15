@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c UINT  ( 5 )  =  CURRENT_DATE 

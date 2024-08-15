@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  SIZE  (  TRIM  (  COUNT  (  *  )  ,  SESSION_USER  + c )  )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LEFT  ( c ,  COUNT  (  *  )  + a + b + c - a - b )  ) 

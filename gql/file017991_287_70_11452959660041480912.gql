@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ( b OR  COUNT  (  *  )  OR b OR  [  ]  OR  [  ]  XOR  COUNT  (  *  )  ) 

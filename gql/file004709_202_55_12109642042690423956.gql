@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  (  SESSION_USER  OR b AND  [  ]  OR a OR  [  ]  AS  BOOLEAN  ) 

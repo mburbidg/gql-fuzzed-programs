@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOWER  (  SESSION_USER  ||  COUNT  (  *  )  )  || a ) 

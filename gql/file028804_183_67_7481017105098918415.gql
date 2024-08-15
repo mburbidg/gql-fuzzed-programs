@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { c STRING  ( 0o5 , 9 )  }  )  =  LOCAL_TIMESTAMP 

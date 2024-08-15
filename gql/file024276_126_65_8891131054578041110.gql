@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ABS  (  LOG10  ( a )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  ABS  ( c * c * b - c +  COUNT  (  *  )  ) 

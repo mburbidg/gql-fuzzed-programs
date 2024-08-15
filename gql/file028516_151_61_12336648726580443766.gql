@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CEILING  ( c -  CARDINALITY  (  TABLE c )  ) 

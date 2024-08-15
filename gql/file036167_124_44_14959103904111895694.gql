@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a DEC  ( 8 , 87 )  =  LOCAL_TIMESTAMP 

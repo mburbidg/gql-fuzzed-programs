@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  ( b AND c XOR b XOR b OR  SESSION_USER  ) 

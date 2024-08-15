@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ABS  ( b -  CARDINALITY  (  TABLE b )  ) 

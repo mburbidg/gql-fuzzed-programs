@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE c WHEN  <> c *  COUNT  (  *  )  + c THEN  NULL  END 

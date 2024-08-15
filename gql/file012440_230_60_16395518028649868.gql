@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET c =  COUNT  (  *  )  XOR b OR  [  ]  OR c XOR  [  ]  IN  LOCAL_TIMESTAMP  END 

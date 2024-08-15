@@ -1,0 +1,1 @@
+ SELECT  *  FROM  CAST  (  CURRENT_DATE  AS  NULL  )  MATCH  (  ) 

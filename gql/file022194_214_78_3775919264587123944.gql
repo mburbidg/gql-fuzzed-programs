@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  { c : a OR  [  ]  AND  COUNT  (  *  )  }  ) 

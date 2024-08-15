@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  ( c , a +  COUNT  (  *  )  / a / c - a - c )  ) 

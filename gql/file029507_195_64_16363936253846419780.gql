@@ -1,0 +1,1 @@
+ SELECT c XOR b AND a AND  [  ]  XOR  COUNT  (  *  ) 

@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  DELETE a AND b AND  COUNT  (  *  )  AND b

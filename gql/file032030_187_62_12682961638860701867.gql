@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  IMPLIES  LABELS c {  }  )  -[  IMPLIES  ]->  (  )  =  CURRENT_DATE 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a LIST  [ 5 ]  =  CURRENT_DATE 

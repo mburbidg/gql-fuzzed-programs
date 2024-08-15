@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG  (  COUNT  (  *  )  +  CARDINALITY  (  TABLE b )  / c ,  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ INSERT  ( a IS c { b :  CURRENT_TIMESTAMP  , c :  LOCAL_TIMESTAMP  }  ) 

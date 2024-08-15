@@ -1,0 +1,1 @@
+ SET a =  { b : a OR  COUNT  (  *  )  AND b AND a XOR  SESSION_USER  } 

@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  WHERE c XOR  COUNT  (  *  )  AND  COUNT  (  *  )  IS  NOT  UNKNOWN 

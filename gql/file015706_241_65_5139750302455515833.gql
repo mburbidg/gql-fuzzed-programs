@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  EXP  (  COUNT  (  *  )  * a - a +  COUNT  (  *  )  +  SESSION_USER  ) 

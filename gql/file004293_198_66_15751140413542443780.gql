@@ -1,0 +1,1 @@
+ SELECT c XOR  [  ]  XOR  SESSION_USER  OR  COUNT  (  *  )  XOR c

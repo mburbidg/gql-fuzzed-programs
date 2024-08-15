@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ( c OR  COUNT  (  *  )  AND c IS  NOT  UNKNOWN  OR a ) 

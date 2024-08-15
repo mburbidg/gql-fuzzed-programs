@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  UPPER  (  NORMALIZE  (  SESSION_USER  )  ) 

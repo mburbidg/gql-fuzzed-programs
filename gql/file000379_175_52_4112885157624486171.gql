@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $b TABLE  { c NULL  , b FLOAT  ( 8 , 8 )  }  = c

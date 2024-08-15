@@ -1,0 +1,1 @@
+ LET b =  LOCAL_TIMESTAMP  , c =  SESSION_USER  OR a OR  [  ] 

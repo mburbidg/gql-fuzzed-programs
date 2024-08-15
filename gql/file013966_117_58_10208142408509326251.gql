@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  BTRIM  (  NORMALIZE  ( a ,  NFKD  )  )  ) 

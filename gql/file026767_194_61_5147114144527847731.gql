@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  (  [  ]  ,  [  ]  *  (  LOCAL_TIMESTAMP  )  ) 

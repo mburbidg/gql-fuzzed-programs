@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c ANY  <  BOOLEAN  |  BYTES  ( 9 )  >  =  CURRENT_TIME 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b CHAR  ( 0b_1 )  =  LOCAL_TIMESTAMP 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  (  CURRENT_TIMESTAMP  +  COUNT  (  *  )  / - COUNT  (  *  )  AS  ANY  ) 

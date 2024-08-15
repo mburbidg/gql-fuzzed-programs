@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { b CHAR  ( 0xe )  }  )  =  CURRENT_TIMESTAMP 

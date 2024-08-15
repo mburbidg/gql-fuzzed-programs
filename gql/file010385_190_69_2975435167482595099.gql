@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  EXISTS  {  (  )  WHERE  SESSION_USER  OR c XOR a }  ) 

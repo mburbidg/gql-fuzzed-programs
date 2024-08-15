@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING  SESSION_USER  OR  [  ]  AND  COUNT  (  *  )  XOR c OR b

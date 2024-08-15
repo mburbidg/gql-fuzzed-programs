@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  NORMALIZE  (  SESSION_USER  ||  TRIM  ( a )  ) 

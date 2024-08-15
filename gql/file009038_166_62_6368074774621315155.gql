@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LOWER  ( b ||  LEFT  ( a ,  SESSION_USER  )  ) 

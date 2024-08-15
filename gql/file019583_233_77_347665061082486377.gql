@@ -1,0 +1,1 @@
+ SET c =  { c :  SESSION_USER  XOR c XOR  [  ]  XOR b XOR c } 

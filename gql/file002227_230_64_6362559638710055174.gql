@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN c XOR b XOR b XOR  COUNT  (  *  )  OR b OR  COUNT  (  *  )  THEN  NULL  END 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET c =  LOCAL_TIMESTAMP  , b =  [  ]  OR  [  ]  XOR b OR b IN  CURRENT_DATE  END 

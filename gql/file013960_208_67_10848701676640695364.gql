@@ -1,0 +1,1 @@
+ SET c . c =  COUNT  (  *  )  - b *  [  ]  -  SESSION_USER 

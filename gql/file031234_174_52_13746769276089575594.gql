@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  (  [  ]  XOR  NOT  [  ]  OR  [  ]  ,  CURRENT_DATE  ) 

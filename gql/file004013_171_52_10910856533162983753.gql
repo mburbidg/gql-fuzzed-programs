@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( a OR  COUNT  (  *  )  AND a XOR b AS  BOOLEAN  ) 

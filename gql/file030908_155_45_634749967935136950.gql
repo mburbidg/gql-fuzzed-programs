@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = b XOR a AND  SAME  ( a , b ) 

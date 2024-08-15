@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  MAX  (  COUNT  (  *  )  XOR c OR  COUNT  (  *  )  XOR b XOR c ) 

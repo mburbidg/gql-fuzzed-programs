@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  [  CURRENT_TIMESTAMP  ,  COUNT  (  *  )  OR b OR  [  ]  XOR  SESSION_USER  ] 

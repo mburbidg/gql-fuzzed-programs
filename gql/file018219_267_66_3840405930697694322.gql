@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TANH  ( a +  COUNT  (  *  )  / c *  COUNT  (  *  )  *  SESSION_USER  - c ) 

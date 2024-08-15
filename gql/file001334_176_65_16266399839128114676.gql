@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE c WHEN  <> a * a +  SESSION_USER  + a THEN  NULL  END 

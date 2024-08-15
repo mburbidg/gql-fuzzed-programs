@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COUNT  (  *  )  XOR  NOT a OR  COUNT  (  *  )  XOR  [  ] 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = b AND  SESSION_USER  AND c XOR a OR  COUNT  (  *  )  XOR b

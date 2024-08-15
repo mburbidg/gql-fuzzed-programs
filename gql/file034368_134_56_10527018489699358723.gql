@@ -1,0 +1,1 @@
+ CALL a (  NOT  COUNT  (  *  )  XOR  SESSION_USER  ) 

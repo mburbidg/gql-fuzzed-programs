@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  POWER  (  SESSION_USER  - c *  LOG10  ( b )  ,  SESSION_USER  ) 

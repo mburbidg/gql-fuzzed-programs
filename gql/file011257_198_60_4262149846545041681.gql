@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE c WHEN  IS  NORMALIZED  THEN a OR b AND  COUNT  (  *  )  OR  COUNT  (  *  )  END 

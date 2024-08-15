@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  [  ]  XOR  [  ]  OR a OR  [  ]  XOR  SESSION_USER  OR  [  ]  THEN  NULL  END 

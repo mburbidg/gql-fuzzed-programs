@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = c XOR c AND a IS  UNKNOWN  AND b XOR c

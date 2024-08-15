@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  MATCH  (  )  WHERE  [  ]  XOR  COUNT  (  *  )  AND c IS  NOT  FALSE 

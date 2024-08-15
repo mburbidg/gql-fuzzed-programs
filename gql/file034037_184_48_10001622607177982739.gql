@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  COUNT  (  *  )  XOR a IS  NOT  UNKNOWN  AND  SESSION_USER  XOR  [  ] 

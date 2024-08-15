@@ -1,0 +1,1 @@
+ SET b . a =  [  ]  XOR  SESSION_USER  AND  NOT a AND a

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  RIGHT  ( b ,  COUNT  (  *  )  * +b * c * a ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { c PROPERTY  VALUE  , @""  PATH  }  )  =  CURRENT_DATE 

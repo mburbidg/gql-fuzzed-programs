@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CURRENT_TIMESTAMP  + c *  LOG10  ( a )  *  SESSION_USER 

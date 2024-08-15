@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a VARCHAR   NOT  NULL  }  )  =  LOCAL_TIMESTAMP 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  COUNT  (  *  )  /  FLOOR  (  COUNT  (  *  )  )  +  CURRENT_DATE 

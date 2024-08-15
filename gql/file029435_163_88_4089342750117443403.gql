@@ -1,0 +1,1 @@
+ MATCH  (  WHERE a AND  NOT a AND  SESSION_USER  ) 

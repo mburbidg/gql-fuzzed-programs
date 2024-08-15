@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  POWER  (  COUNT  (  *  )  , a -  PATH_LENGTH  ( a )  )  ) 

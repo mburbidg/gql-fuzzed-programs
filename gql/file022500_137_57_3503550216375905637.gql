@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c NODE a IS a & c =  LOCAL_TIMESTAMP 

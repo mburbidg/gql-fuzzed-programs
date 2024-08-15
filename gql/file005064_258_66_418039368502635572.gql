@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TANH  ( a - b /  COUNT  (  *  )  +  COUNT  (  *  )  -  SESSION_USER  +  SESSION_USER  )  ) 

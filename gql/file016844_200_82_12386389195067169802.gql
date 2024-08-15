@@ -1,0 +1,1 @@
+ MATCH  (  (  )  WHERE  SESSION_USER  XOR  NOT  [  ]  XOR  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a TABLE  { c BOOLEAN  , a DOUBLE  PRECISION  }  = a

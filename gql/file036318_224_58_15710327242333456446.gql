@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  COUNT  (  *  )  +  COUNT  (  *  )  /  LN  (  SESSION_USER  )  -  [  ] 

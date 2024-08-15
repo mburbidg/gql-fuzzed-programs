@@ -1,0 +1,1 @@
+ SET c =  { c :  LOCAL_TIMESTAMP  , a :  COUNT  (  *  )  / b } 

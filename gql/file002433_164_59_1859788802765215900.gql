@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  RADIANS  ( b )  *  SESSION_USER  *  [  ] 

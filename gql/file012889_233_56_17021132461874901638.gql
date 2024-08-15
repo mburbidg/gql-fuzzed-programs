@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  [  ]  - c *  CARDINALITY  (  TABLE b )  -  COUNT  (  *  )  + b

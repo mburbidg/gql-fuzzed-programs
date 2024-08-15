@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOG  (  COUNT  (  *  )  , c +  COUNT  (  *  )  /  MOD  (  COUNT  (  *  )  ,  COUNT  (  *  )  )  )  ) 

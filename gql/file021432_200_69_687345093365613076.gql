@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE a WHEN  <>  (  SESSION_USER  XOR a XOR  [  ]  OR c )  THEN  NULL  END 

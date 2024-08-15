@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  CEILING  (  SESSION_USER  -  COUNT  (  *  )  /  PATH_LENGTH  ( b )  ) 

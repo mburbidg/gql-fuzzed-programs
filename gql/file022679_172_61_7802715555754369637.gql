@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG  ( c *  (  LOCAL_TIMESTAMP  )  , b ) 

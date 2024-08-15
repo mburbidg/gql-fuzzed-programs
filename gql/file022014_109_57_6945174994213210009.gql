@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b =  TRIM  ( c )  IN  CURRENT_TIME  END 

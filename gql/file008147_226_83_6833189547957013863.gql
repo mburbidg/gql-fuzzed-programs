@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  { c :  CURRENT_TIME  , b :  SESSION_USER  XOR b XOR b }  ) 

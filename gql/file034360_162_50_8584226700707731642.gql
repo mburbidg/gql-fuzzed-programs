@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  (  COUNT  (  *  )  + b / - SESSION_USER  ,  CURRENT_DATE  ) 

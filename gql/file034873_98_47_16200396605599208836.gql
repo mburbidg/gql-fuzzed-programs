@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LOCAL_DATETIME  ( 'b'  ) 

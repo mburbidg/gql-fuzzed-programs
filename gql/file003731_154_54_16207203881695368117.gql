@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET a =  [  ]  - a - c IN  CURRENT_DATE  END 

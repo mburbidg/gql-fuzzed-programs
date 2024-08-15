@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  ( c ,  COUNT  (  *  )  *  LOG  (  COUNT  (  *  )  , c )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  [  ]  AND  ALL_DIFFERENT  ( c , a )  XOR a

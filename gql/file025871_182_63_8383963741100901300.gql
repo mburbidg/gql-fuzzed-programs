@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  FILTER  WHERE  COUNT  (  *  )  XOR  COUNT  (  *  )  AND c AND b

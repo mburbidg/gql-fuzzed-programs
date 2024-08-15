@@ -1,0 +1,1 @@
+ INSERT  ( c IS cc { a :  CURRENT_TIME  }  ) 

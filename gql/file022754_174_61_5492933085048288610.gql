@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { a ANY  , a ANY  GRAPH  }  )  =  LOCAL_TIMESTAMP 

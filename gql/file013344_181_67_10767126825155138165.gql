@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { a ANY  <  PATH  |  BOOL  >  }  )  =  LOCAL_TIMESTAMP 

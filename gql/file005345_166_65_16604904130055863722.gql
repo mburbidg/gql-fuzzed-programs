@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { b DEC  ( 9 )  }  )  =  CURRENT_TIMESTAMP 

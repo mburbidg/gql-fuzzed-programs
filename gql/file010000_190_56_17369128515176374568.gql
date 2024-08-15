@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CURRENT_TIMESTAMP  + b /  CARDINALITY  (  TABLE a )  * a * b

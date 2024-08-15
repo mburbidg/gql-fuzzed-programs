@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET a =  [  ]  XOR b AND c AND  [  ]  AND  [  ]  IN  CURRENT_DATE  END 

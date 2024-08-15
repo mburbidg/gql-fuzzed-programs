@@ -1,0 +1,1 @@
+ LET b =  SESSION_USER  XOR  [  ]  XOR  [  ] 

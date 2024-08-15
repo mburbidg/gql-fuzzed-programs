@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( c AND  NOT a AND b OR  [  ]  XOR b ) 

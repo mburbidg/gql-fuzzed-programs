@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { b TYPED  ANY  }  )  =  LOCAL_TIMESTAMP 

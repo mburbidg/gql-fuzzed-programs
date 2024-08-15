@@ -1,0 +1,1 @@
+ SET c =  { a :  CURRENT_TIMESTAMP  , c : b OR b XOR b OR  [  ]  } 

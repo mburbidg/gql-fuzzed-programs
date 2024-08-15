@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( c XOR  PROPERTY_EXISTS  ( c , b )  OR a ) 

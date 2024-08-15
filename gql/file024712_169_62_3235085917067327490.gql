@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  ( a ,  [  ]  -  FLOOR  (  SESSION_USER  )  )  ) 

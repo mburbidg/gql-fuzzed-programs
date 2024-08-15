@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( c *  SESSION_USER  * a AS  BOOL  ) 

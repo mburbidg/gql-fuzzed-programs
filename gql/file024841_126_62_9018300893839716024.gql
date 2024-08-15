@@ -1,0 +1,1 @@
+ DELETE  CURRENT_TIME  +  SESSION_USER  * + [  ] 

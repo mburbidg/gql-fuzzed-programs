@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  )  ~[  LABEL b { c BOOL  , a BOOL  }  ]~  (  )  =  CURRENT_TIME 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( c IS  TRUE  XOR b OR  COUNT  (  *  )  ) 

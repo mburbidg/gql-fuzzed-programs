@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  FILTER a AND  COUNT  (  *  )  AND  [  ]  AND a

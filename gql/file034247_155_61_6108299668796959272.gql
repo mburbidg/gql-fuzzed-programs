@@ -1,0 +1,1 @@
+ SELECT  [  ]  XOR a AND  NOT  SESSION_USER  XOR a

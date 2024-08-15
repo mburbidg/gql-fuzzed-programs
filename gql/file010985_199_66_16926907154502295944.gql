@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { c PATH  , c ARRAY  [ 8 ]  }  )  =  CURRENT_DATE 

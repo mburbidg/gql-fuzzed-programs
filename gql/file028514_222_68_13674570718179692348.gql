@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RADIANS  ( c -  [  ]  *  LOG  ( b , c )  ) 

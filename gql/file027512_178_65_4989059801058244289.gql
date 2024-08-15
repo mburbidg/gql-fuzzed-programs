@@ -1,0 +1,1 @@
+ FILTER  WHERE  COUNT  (  *  )  XOR  COUNT  (  *  )  XOR c OR a

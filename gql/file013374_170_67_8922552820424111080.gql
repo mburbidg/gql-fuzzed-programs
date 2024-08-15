@@ -1,0 +1,1 @@
+ SET c . b =  CURRENT_DATE  - c +  SESSION_USER  +  SESSION_USER 

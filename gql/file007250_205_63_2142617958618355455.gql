@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  )  -[  { c NULL  , c BOOL  }  ]->  (  )  =  CURRENT_TIMESTAMP 

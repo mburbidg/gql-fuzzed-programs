@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LEFT  (  COUNT  (  *  )  , b +  SESSION_USER  *  CEILING  (  COUNT  (  *  )  )  ) 

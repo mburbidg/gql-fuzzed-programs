@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ASIN  (  SESSION_USER  -  SESSION_USER  * - [  ]  * c + c ) 

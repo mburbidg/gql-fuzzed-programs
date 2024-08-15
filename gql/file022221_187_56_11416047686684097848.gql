@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING c OR  NOT a AND  COUNT  (  *  ) 

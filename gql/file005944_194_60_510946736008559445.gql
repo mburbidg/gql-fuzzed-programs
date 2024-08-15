@@ -1,0 +1,1 @@
+ CALL c (  LOCAL_TIMESTAMP  ,  [  ]  +  COUNT  (  *  )  * a ) 

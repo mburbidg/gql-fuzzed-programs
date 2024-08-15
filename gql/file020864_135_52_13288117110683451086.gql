@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  [  ]  OR  ALL_DIFFERENT  ( b , c )  THEN  NULL  END 

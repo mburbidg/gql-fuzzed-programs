@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LN  ( a +  CARDINALITY  (  TABLE c )  - b ) 

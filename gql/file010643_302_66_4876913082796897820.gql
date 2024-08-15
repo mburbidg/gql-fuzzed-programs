@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ATAN  (  COUNT  (  *  )  - b /  COUNT  (  *  )  / c -  COUNT  (  *  )  +  COUNT  (  *  )  ) 

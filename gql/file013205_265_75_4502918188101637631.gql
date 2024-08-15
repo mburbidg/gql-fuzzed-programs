@@ -1,0 +1,1 @@
+ SET a =  { b :  CURRENT_TIMESTAMP  , a : a XOR  COUNT  (  *  )  AND  COUNT  (  *  )  XOR a } 

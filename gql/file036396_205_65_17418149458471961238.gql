@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  DEGREES  ( c + c *  CARDINALITY  (  TABLE b )  +  SESSION_USER  ) 

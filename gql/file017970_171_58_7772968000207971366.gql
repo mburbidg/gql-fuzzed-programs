@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SESSION_USER  *  MOD  ( c , a )  +  CURRENT_DATE 

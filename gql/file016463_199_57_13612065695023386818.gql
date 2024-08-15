@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  XOR c OR a XOR b OR c AS  BOOL  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( b XOR  COUNT  (  *  )  AND c XOR b XOR a OR  SESSION_USER  XOR c ) 

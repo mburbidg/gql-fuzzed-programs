@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  CARDINALITY  (  TRIM  ( a || b , c )  ) 

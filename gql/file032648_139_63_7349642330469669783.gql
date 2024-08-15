@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEIL  (  CARDINALITY  (  TABLE b )  - c )  ) 

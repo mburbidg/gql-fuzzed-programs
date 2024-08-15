@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  POWER  ( b - c / b - b - a - c , a ) 

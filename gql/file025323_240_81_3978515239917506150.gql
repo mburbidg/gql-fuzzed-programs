@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  { c :  LOCAL_TIMESTAMP  , b :  COUNT  (  *  )  OR a AND  SESSION_USER  }  ) 

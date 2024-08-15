@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  EXP  (  [  ]  +  SESSION_USER  /  EXP  (  SESSION_USER  )  ) 

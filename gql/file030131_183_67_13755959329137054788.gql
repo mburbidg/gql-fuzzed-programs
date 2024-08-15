@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  MOD  ( c +  LOG10  ( b )  , a ) 

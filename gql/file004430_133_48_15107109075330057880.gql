@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $b TABLE  { c VARBINARY  ( 0o5 )  }  = c

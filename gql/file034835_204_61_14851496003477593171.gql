@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LEFT  (  SESSION_USER  , b * + SESSION_USER  + b +  SESSION_USER  ) 

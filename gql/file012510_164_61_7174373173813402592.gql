@@ -1,0 +1,1 @@
+ SELECT  COUNT  (  *  )  + c * a +  SESSION_USER 

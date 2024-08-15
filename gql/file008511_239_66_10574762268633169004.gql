@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ACOS  ( c -  SESSION_USER  * a - b - b - a ) 

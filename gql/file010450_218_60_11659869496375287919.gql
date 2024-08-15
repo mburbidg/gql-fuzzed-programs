@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b =  SESSION_USER  OR  COUNT  (  *  )  XOR  [  ]  OR b OR b IN  CURRENT_TIME  END 

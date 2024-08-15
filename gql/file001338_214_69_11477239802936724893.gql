@@ -1,0 +1,1 @@
+ MATCH  (  )  WHERE  COUNT  (  *  )  OR  [  ]  AND  SESSION_USER  XOR  SESSION_USER 

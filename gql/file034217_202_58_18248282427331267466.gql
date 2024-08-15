@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( b *  CARDINALITY  (  TABLE b )  /  COUNT  (  *  )  /  SESSION_USER  *  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RIGHT  ( b ,  SESSION_USER  - + [  ]  / a -  SESSION_USER  ) 

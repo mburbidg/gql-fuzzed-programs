@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET b =  { a :  CURRENT_DATE  , b : a OR b OR a OR  COUNT  (  *  )  } 

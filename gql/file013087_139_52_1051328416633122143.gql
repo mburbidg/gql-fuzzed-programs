@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  ( b / c / b ,  CURRENT_TIMESTAMP  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_TIMESTAMP  +  [  ]  *  CARDINALITY  (  TABLE a )  /  COUNT  (  *  )  * b ) 

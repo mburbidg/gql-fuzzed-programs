@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_TIMESTAMP  - +a * a *  SESSION_USER  * a ) 

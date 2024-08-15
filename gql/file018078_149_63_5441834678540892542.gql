@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  FLOOR  (  SESSION_USER  +  PATH_LENGTH  ( a )  ) 

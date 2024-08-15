@@ -1,0 +1,1 @@
+ CALL a ( b OR a AND  SESSION_USER  IS  NOT  UNKNOWN  ) 

@@ -1,0 +1,1 @@
+ SET b . c = b * c * a

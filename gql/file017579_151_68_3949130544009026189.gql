@@ -1,0 +1,1 @@
+ SET a =  { c : b OR c IS  FALSE  } 

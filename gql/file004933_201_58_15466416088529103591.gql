@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  ( a ,  SESSION_USER  / + SESSION_USER  *  COUNT  (  *  )  / c )  ) 

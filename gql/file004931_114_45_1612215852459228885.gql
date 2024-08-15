@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b CHAR  ( 8 )  LIST  =  CURRENT_TIME 

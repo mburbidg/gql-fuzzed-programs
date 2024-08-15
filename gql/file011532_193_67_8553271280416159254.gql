@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { c ANY  , a CHAR  ( 8 )  }  )  =  CURRENT_TIME 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  )  <-[  IMPLIES  ]-  (  LABEL c { b BOOLEAN  }  )  =  CURRENT_TIMESTAMP 

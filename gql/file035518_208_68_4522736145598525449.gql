@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  EXP  ( b + a /  MOD  (  SESSION_USER  , c )  ) 

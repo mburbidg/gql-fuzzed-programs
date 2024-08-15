@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LN  (  [  ]  +  [  ]  *  COUNT  (  *  )  *  SESSION_USER  *  [  ]  - c ) 

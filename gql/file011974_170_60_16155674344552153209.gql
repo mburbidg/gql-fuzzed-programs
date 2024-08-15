@@ -1,0 +1,1 @@
+ CALL b (  SESSION_USER  +  SESSION_USER  * c -  SESSION_USER  ) 

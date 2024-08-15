@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  EXISTS  (  (  )  WHERE  [  ]  XOR  COUNT  (  *  )  AND b ) 

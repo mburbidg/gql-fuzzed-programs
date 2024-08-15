@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( b ||  TRIM  (  FROM  SESSION_USER  )  ) 

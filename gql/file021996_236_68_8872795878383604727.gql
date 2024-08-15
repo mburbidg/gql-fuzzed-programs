@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ( a XOR a AND c AND a AND  [  ]  AND c ) 

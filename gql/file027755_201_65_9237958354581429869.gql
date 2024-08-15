@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  FILTER  WHERE  COUNT  (  *  )  OR  SESSION_USER  XOR  COUNT  (  *  )  XOR  COUNT  (  *  ) 

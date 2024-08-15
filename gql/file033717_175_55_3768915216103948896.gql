@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CURRENT_TIMESTAMP  -  [  ]  *  PATH_LENGTH  ( c )  * a

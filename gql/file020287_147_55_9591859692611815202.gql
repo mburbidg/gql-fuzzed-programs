@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  WHERE a OR  NOT a

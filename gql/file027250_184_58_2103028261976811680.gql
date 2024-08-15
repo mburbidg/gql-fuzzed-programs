@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  WHERE b XOR  NOT  [  ]  OR b

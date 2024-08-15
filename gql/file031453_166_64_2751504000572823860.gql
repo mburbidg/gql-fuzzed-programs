@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ABS  ( b -  CARDINALITY  (  TABLE a )  + a )  ) 

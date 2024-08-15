@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET b . b =  COUNT  (  *  )  +  SESSION_USER  / b * a

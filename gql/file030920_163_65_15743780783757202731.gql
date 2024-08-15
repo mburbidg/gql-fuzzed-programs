@@ -1,0 +1,1 @@
+ SET a . c =  LOCAL_TIMESTAMP  - c * + COUNT  (  *  ) 

@@ -1,0 +1,1 @@
+ INSERT  (  )  ~[  ]~  ( b IS c { b :  CURRENT_DATE  , b :  LOCAL_TIMESTAMP  }  ) 

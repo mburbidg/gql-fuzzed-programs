@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SIN  (  COUNT  (  *  )  + b * + SESSION_USER  * a ) 

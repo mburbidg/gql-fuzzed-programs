@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  MATCH  (  (  )  WHERE c OR a AND c AND  COUNT  (  *  )  XOR c ) 

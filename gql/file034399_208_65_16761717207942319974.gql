@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  IMPLIES  LABEL b { b PATH  }  )  <-[  IMPLIES  ]-  (  )  =  LOCAL_TIMESTAMP 

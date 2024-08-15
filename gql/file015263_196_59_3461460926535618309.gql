@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  { b :  COUNT  (  *  )  AND b XOR  SESSION_USER  OR  COUNT  (  *  )  } 

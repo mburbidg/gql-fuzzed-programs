@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEIL  ( c -  COUNT  (  *  )  *  PATH_LENGTH  ( b )  )  ) 

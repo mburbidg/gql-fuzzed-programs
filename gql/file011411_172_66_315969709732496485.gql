@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { b ARRAY  <  ANY  GRAPH  >  }  )  =  CURRENT_TIME 

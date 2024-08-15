@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  BTRIM  ( c , c ||  NORMALIZE  (  SESSION_USER  ,  NFD  )  )  ) 

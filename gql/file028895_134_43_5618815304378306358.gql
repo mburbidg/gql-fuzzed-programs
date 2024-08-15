@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c ANY  <  PATH  |  DURATION  (  YEAR  TO  MONTH  )  >  =  CURRENT_DATE 

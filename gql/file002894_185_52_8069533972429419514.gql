@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  STDDEV_POP  (  CURRENT_DATE  -  [  ]  +  COUNT  (  *  )  -  COUNT  (  *  )  ) 

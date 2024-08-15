@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { c ANY  , c NODE  }  )  =  LOCAL_TIMESTAMP 

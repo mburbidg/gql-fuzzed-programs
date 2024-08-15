@@ -1,0 +1,1 @@
+ SET a =  { c : c OR  NOT c OR  [  ]  } 

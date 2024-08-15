@@ -1,0 +1,1 @@
+ DELETE  CURRENT_TIMESTAMP  ,  COUNT  (  *  )  XOR  [  ]  OR a XOR c

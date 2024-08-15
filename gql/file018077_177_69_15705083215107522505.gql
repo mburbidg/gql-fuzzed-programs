@@ -1,0 +1,1 @@
+ SET a . a = b XOR  SESSION_USER  XOR c XOR  SESSION_USER 

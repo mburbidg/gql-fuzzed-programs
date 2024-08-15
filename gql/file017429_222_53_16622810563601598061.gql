@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = b AND  NOT  COUNT  (  *  )  AND a AND  COUNT  (  *  )  OR  COUNT  (  *  ) 

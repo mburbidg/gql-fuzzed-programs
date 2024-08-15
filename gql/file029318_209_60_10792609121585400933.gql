@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  COUNT  (  *  )  /  FLOOR  (  COUNT  (  *  )  )  / c *  SESSION_USER 

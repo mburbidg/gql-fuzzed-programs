@@ -1,0 +1,1 @@
+ SELECT a XOR c AND  NOT c OR b

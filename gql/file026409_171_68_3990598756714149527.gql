@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  BYTE_LENGTH  (  LEFT  (  SESSION_USER  , b )  || b ) 

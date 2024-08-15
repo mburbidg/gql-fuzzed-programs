@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a =  PERCENTILE_DISC  (  ALL  [  ]  ,  SESSION_USER  ) 

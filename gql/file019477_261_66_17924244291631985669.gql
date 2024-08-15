@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  FLOOR  (  COUNT  (  *  )  - a /  [  ]  / a / b + b ) 

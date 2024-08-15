@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  COUNT  (  *  )  OR  NOT a XOR c XOR  COUNT  (  *  )  XOR b ) 

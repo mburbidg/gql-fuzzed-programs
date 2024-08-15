@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a CHAR  ( 82 )  =  CURRENT_DATE 

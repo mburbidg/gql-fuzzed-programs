@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  TRIM  (  ELEMENT_ID  ( c )  ) 

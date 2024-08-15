@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG  ( a +  FLOOR  (  [  ]  )  ,  SESSION_USER  ) 

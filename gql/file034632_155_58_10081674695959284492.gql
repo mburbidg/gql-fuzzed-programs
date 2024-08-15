@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_TIME  - c *  LOG10  (  SESSION_USER  )  * b ) 

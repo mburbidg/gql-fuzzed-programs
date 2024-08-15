@@ -1,0 +1,1 @@
+ SELECT  *  FROM  PERCENTILE_CONT  ( c ,  [  ]  )  MATCH  (  ) 

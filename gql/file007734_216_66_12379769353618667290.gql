@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  ORDER  BY a XOR  [  ]  AND c AND c

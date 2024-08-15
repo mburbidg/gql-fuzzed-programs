@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CARDINALITY  (  PERCENTILE_CONT  ( a ,  [  ]  )  ) 

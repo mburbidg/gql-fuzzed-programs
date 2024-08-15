@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  (  [  ]  AND b AND a AND b ,  LOCAL_TIMESTAMP  ) 

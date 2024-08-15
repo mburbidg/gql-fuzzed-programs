@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = c AND c OR b XOR c OR a

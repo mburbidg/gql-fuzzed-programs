@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE  WHEN  COUNT  (  *  )  AND c OR b OR a OR b THEN  NULL  END 

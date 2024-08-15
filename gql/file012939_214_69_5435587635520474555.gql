@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  DELETE c OR  COUNT  (  *  )  XOR  COUNT  (  *  )  OR b OR b

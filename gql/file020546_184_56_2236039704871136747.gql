@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COUNT  (  *  )  /  OCTET_LENGTH  ( a )  /  COUNT  (  *  ) 

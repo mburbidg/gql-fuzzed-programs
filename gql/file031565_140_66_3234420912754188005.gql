@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  EXP  ( b /  CEILING  (  SESSION_USER  )  )  ) 

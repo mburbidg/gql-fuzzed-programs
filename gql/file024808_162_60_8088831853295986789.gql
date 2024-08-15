@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE b WHEN  >=  CURRENT_TIME  + a *  DURATION  (  {  }  )  THEN  NULL  END 

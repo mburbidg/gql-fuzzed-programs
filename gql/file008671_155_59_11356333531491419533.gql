@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ZONED_DATETIME  (  { a :  CURRENT_DATE  , b :  CURRENT_DATE  }  )  ) 

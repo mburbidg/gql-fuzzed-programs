@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEIL  ( c +  LOG10  ( c )  )  ) 

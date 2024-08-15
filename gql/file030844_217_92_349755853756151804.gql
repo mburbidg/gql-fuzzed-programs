@@ -1,0 +1,1 @@
+ MATCH  (  WHERE b OR c AND a OR c OR c ) 

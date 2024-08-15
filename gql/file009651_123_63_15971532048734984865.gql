@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  TRIM  (  RTRIM  (  SESSION_USER  )  ) 

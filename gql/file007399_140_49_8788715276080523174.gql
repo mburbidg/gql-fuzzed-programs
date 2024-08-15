@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b ANY  <  BOOL  |  CHAR  ( 8 )  >  =  CURRENT_TIME 

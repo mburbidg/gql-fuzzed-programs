@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  (  COUNT  (  *  )  XOR a OR  SESSION_USER  OR a OR  COUNT  (  *  )  AS  PATH  ) 

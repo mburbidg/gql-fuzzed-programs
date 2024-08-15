@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { b PROPERTY  VALUE  , c CHAR   NOT  NULL  }  )  =  CURRENT_DATE 

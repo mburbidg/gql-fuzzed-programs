@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  ( c XOR  [  ]  XOR b OR a OR c ,  CURRENT_TIME  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( b AND b OR  SESSION_USER  XOR  [  ]  XOR  SESSION_USER  OR  [  ]  ) 

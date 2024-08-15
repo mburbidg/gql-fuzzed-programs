@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  BTRIM  (  [  ]  ,  SESSION_USER  ||  LTRIM  (  SESSION_USER  )  ) 

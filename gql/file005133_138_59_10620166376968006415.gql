@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  (  (  LOCAL_TIMESTAMP  )  FROM  COUNT  (  *  )  )  ) 

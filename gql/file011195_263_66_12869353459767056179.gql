@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SINH  (  COUNT  (  *  )  -  SESSION_USER  /  SESSION_USER  *  SESSION_USER  / c *  COUNT  (  *  )  ) 

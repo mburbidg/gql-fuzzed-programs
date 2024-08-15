@@ -1,0 +1,1 @@
+ CALL a (  [  ]  XOR c AND  [  ]  XOR  SESSION_USER  ) 

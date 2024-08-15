@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  COS  (  SESSION_USER  -  SESSION_USER  -  COUNT  (  *  )  -  [  ]  - b +  COUNT  (  *  )  ) 

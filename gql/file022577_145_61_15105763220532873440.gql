@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { c INT64  }  )  =  CURRENT_DATE 

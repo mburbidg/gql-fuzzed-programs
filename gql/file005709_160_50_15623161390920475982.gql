@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a TABLE  { c ANY  , b VARCHAR  ( 9 )  }  = a

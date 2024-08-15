@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = a OR  SESSION_USER  AND  COUNT  (  *  )  IS  NOT  FALSE  AND c XOR a

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  LTRIM  ( a ,  (  CURRENT_DATE  )  ) 

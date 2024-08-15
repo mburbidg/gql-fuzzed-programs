@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET c =  { c :  COUNT  (  *  )  } 

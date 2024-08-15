@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LEFT  (  [  ]  , c + a *  POWER  ( c , a )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = b XOR c AND  PROPERTY_EXISTS  ( b , b ) 

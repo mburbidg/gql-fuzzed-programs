@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  TRIM  ( c ||  RIGHT  (  SESSION_USER  ,  COUNT  (  *  )  )  FROM b ) 

@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  MATCH  (  WHERE  COUNT  (  *  )  XOR c XOR a OR a XOR b ) 

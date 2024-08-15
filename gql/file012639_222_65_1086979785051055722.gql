@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  )  ~[  IMPLIES  ]~  (  IMPLIES  { a BOOL  , b ANY  }  )  =  CURRENT_TIME 

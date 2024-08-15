@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEILING  (  [  ]  -  COUNT  (  *  )  / -c +  SESSION_USER  - a )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  EXISTS  (  MATCH  (  )  WHERE  SESSION_USER  ) 

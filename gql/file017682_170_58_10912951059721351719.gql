@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a BOOLEAN  , c RECORD  }  )  =  CURRENT_DATE 

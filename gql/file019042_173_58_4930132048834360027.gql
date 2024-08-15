@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CURRENT_TIMESTAMP  - c *  TANH  (  COUNT  (  *  )  )  *  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  MIN  (  NOT  SESSION_USER  OR  [  ]  ) 

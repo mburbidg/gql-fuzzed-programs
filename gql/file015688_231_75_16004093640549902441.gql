@@ -1,0 +1,1 @@
+ SET a =  { c :  [  ]  XOR a AND c XOR  SESSION_USER  XOR b } 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  { a ANY  GRAPH   NOT  NULL  }  )  =  CURRENT_TIMESTAMP 

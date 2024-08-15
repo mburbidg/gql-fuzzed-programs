@@ -1,0 +1,1 @@
+ SET c =  { a :  LOCAL_TIMESTAMP  , a :  COUNT  (  *  )  OR c XOR a XOR  COUNT  (  *  )  } 

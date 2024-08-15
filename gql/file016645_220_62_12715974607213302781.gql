@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  { b :  LOCAL_TIMESTAMP  , b :  COUNT  (  *  )  OR a XOR  SESSION_USER  OR a } 

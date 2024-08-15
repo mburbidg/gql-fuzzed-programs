@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET c =  { b :  [  ]  OR  SESSION_USER  XOR  SESSION_USER  XOR  COUNT  (  *  )  XOR b } 

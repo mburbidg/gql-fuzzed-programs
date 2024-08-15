@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $a =  (  CURRENT_DATE  -  COUNT  (  *  )  ) 

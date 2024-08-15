@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  ( c OR  SESSION_USER  AND b IS  NOT  TRUE  AND b ) 

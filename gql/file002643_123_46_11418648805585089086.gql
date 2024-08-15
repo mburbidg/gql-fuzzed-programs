@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b ANY  <  BYTES  ( 9 )  >  =  CURRENT_TIMESTAMP 

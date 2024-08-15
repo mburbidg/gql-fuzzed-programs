@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c LIST  <  ANY  <  NULL  |  BOOLEAN  >  >  =  LOCAL_TIMESTAMP 

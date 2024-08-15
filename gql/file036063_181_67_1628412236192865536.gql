@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CEILING  ( a /  POWER  (  SESSION_USER  , b )  ) 

@@ -1,0 +1,1 @@
+ MATCH  (  WHERE  [  ]  XOR a AND a IS  NOT  FALSE  ) 

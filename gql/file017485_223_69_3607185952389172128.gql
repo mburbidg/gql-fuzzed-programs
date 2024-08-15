@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  EXISTS  {  (  )  WHERE  COUNT  (  *  )  OR a OR  COUNT  (  *  )  }  ) 

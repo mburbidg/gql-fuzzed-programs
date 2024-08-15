@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  (  LOCAL_TIMESTAMP  , c OR  COUNT  (  *  )  AND  COUNT  (  *  )  OR c XOR c ) 

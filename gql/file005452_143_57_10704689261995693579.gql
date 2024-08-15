@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a = a /  SQRT  ( a )  +  CURRENT_DATE 

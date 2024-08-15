@@ -1,0 +1,1 @@
+ SELECT a XOR a AND c OR c OR c

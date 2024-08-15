@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RIGHT  ( b ,  COUNT  (  *  )  - c *  PATH_LENGTH  ( c )  ) 

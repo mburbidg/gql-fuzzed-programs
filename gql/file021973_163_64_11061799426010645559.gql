@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  ATAN  (  SESSION_USER  *  CARDINALITY  (  TABLE b )  / b )  ) 

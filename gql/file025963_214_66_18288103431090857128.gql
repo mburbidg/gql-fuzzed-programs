@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LEFT  ( c , b -  MOD  (  [  ]  ,  SESSION_USER  )  ) 

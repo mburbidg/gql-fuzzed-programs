@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  LABEL a { b ANY  , a TYPED  ANY  }  )  =  CURRENT_DATE 

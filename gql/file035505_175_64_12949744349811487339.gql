@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LN  ( c /  CARDINALITY  (  TABLE c )  +  SESSION_USER  ) 

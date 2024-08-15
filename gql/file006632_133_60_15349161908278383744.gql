@@ -1,0 +1,1 @@
+ CALL c ( a *  SESSION_USER  +  LOCAL_TIMESTAMP  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  $c TABLE  { b ANY  , a VARBINARY  ( 9 )  }  = a

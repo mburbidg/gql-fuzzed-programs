@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TRIM  ( b ||  TRIM  ( a )  ||  SESSION_USER  FROM  SESSION_USER  ) 

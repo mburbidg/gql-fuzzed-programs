@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ABS  (  COUNT  (  *  )  +  CARDINALITY  (  TABLE a )  - b ) 

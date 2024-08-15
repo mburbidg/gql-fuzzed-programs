@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  COUNT  (  *  )  OR b IS  NOT  FALSE  AND  COUNT  (  *  )  AND a

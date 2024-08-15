@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  LEFT  ( b ,  [  ]  - a * - SESSION_USER  *  COUNT  (  *  )  *  [  ]  ) 

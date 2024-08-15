@@ -1,0 +1,1 @@
+ INSERT  (  { c :  LOCAL_TIMESTAMP  , b :  COUNT  (  *  )  +  COUNT  (  *  )  }  ) 

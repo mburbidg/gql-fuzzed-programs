@@ -1,0 +1,1 @@
+ SELECT  *  FROM  LET b =  CURRENT_DATE  IN  [  ]  END  {  FINISH  } 

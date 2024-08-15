@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CEIL  (  SESSION_USER  + b *  TANH  ( c )  ) 

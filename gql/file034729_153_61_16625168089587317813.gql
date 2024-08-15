@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE b WHEN  >=  CURRENT_DATE  + b / + [  ]  THEN  NULL  END 

@@ -1,0 +1,1 @@
+ MATCH  (  WHERE b AND  COUNT  (  *  )  XOR c XOR b ) 

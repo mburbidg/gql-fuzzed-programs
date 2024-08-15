@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { b NODE   NOT  NULL  }  )  =  CURRENT_DATE 

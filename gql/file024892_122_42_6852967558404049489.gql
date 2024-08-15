@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c DEC  ( 8 , 98 )  =  CURRENT_DATE 

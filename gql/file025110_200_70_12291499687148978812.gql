@@ -1,0 +1,1 @@
+ SET c . a =  SESSION_USER  XOR c AND b AND b OR c

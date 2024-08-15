@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  (  SESSION_USER  + a *  POWER  ( c ,  SESSION_USER  )  ,  SESSION_USER  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TRIM  (  COUNT  (  *  )  ,  COUNT  (  *  )  +  CARDINALITY  (  TABLE c )  *  SESSION_USER  ) 

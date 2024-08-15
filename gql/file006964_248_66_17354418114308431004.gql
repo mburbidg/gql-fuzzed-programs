@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEIL  ( b +  SESSION_USER  * b +  [  ]  - c -  [  ]  )  ) 

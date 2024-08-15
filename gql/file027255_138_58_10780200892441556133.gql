@@ -1,0 +1,1 @@
+ CREATE  GRAPH  TYPE a LIKE  LET b =  CURRENT_DATE  IN  COUNT  (  *  )  END 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  COUNT  (  *  )  /  MOD  ( b , c )  +  CURRENT_TIME 

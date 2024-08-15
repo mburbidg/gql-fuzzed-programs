@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  NULLIF  ( a OR  COUNT  (  *  )  AND  [  ]  AND  [  ]  AND c ,  CURRENT_DATE  ) 

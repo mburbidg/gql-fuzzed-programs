@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c = a XOR c IS  NOT  FALSE  OR c

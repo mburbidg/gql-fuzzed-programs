@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET b =  [  ]  -  COUNT  (  *  )  / c IN  LOCAL_TIMESTAMP  END 

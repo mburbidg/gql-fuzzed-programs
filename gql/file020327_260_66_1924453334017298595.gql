@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  MOD  (  [  ]  , c +  COUNT  (  *  )  *  CARDINALITY  (  TABLE a )  - b ) 

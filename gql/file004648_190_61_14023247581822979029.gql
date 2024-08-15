@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  ( c +  (  CURRENT_DATE  )  ,  COUNT  (  *  )  ) 

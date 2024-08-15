@@ -1,0 +1,1 @@
+ SET b . b = b OR  COUNT  (  *  )  XOR b OR a XOR a

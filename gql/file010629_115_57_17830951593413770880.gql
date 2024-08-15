@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CHAR_LENGTH  (  (  LOCAL_TIMESTAMP  )  ) 

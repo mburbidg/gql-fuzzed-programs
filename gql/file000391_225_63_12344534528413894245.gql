@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CEIL  ( c + a * b * b -  COUNT  (  *  )  ) 

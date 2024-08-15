@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET a . c =  SESSION_USER  OR b XOR b XOR  [  ]  XOR  COUNT  (  *  ) 

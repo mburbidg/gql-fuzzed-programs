@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  PERCENTILE_CONT  ( a ,  SESSION_USER  * a -  COUNT  (  *  )  +  SESSION_USER  - c ) 

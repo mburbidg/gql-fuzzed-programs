@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CARDINALITY  (  CAST  (  NULL  AS  BOOL  )  ) 

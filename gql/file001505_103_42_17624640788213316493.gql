@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b INT  ( 3 )  =  CURRENT_DATE 

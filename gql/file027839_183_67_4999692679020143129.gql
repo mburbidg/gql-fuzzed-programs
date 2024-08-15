@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  ( b -  SQRT  ( a )  , a ) 

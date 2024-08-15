@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  EXP  ( b - b *  CARDINALITY  (  TABLE b )  - c )  ) 

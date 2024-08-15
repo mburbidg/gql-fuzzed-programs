@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  (  SESSION_USER  OR b OR a OR c OR a OR a ) 

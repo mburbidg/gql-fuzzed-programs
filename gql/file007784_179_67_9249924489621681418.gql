@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  SQRT  ( c *  LOG  (  [  ]  ,  SESSION_USER  )  )  ) 

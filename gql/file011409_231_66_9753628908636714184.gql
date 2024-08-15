@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  POWER  ( c - c *  CARDINALITY  (  TABLE c )  +  SESSION_USER  ,  SESSION_USER  ) 

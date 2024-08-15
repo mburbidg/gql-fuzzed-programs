@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  PROPERTY_EXISTS  ( cc , c ) 

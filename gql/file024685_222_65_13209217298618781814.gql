@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  CEIL  (  COUNT  (  *  )  *  SESSION_USER  * a / a + a ) 

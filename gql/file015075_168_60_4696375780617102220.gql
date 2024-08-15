@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LTRIM  (  COUNT  (  *  )  ,  NORMALIZE  (  SESSION_USER  ,  NFC  )  ) 

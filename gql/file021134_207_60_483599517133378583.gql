@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a DIRECTED  EDGE  { b BOOL  , ``  ANY  }  CONNECTING  ( b TO c )  =  CURRENT_DATE 

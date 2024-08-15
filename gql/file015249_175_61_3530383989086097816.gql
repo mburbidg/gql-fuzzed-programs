@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOG  (  COUNT  (  *  )  /  (  LOCAL_TIMESTAMP  )  ,  SESSION_USER  )  ) 

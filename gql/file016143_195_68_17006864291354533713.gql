@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  POWER  ( c , c -  SESSION_USER  /  FLOOR  (  SESSION_USER  )  )  ) 

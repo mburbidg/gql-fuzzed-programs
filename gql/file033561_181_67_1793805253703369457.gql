@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  COS  ( b -  SESSION_USER  /  LN  ( c )  ) 

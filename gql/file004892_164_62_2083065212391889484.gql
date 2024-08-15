@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  RTRIM  (  [  ]  ,  SESSION_USER  ||  NORMALIZE  (  SESSION_USER  )  )  ) 

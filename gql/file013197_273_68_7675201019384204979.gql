@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ASIN  ( b -  COUNT  (  *  )  -  COUNT  (  *  )  - b -  SESSION_USER  - b ) 

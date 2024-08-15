@@ -1,0 +1,1 @@
+ SET c . b =  COUNT  (  *  )  XOR  SESSION_USER  AND  NOT  COUNT  (  *  )  OR a

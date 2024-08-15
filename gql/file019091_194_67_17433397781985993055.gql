@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  { b PATH  , b ANY  VALUE  <  BOOL  >  }  )  =  CURRENT_TIMESTAMP 

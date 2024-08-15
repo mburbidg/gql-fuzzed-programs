@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  RADIANS  ( b /  COUNT  (  *  )  *  SESSION_USER  /  COUNT  (  *  )  +  SESSION_USER  ) 

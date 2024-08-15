@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b { c PATH  , c DURATION  (  DAY  TO  SECOND  )  }  =  CURRENT_DATE 

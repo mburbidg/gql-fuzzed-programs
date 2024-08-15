@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b (  IMPLIES  { a ANY  , c PROPERTY  VALUE  }  )  ~[  IMPLIES  ]~  (  )  =  CURRENT_TIME 

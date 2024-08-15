@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOG  ( c -  COUNT  (  *  )  +  COUNT  (  *  )  -  COUNT  (  *  )  +  COUNT  (  *  )  -  COUNT  (  *  )  , a )  ) 

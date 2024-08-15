@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  EXP  (  COUNT  (  *  )  - a *  CARDINALITY  (  TABLE c )  *  COUNT  (  *  )  ) 

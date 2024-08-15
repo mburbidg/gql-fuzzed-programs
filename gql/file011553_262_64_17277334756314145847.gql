@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  POWER  ( a + a /  COUNT  (  *  )  *  [  ]  / a , b ) 

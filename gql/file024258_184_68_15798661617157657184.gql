@@ -1,0 +1,1 @@
+ INSERT  (  )  RETURN c OR b OR  SESSION_USER  XOR c

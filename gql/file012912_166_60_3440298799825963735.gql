@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  RTRIM  ( a ,  COUNT  (  *  )  ||  (  CURRENT_DATE  )  )  ) 

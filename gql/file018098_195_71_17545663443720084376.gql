@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET c =  { b : c XOR  NOT  SESSION_USER  OR  COUNT  (  *  )  } 

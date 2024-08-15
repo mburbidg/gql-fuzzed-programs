@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE b WHEN  <>  CURRENT_DATE  + c + c + a - a THEN  NULL  END 

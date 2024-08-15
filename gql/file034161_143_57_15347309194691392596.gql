@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a = b /  EXP  ( b )  +  CURRENT_DATE 

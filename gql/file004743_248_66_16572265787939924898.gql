@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  LN  ( b -  [  ]  * c - a + b -  SESSION_USER  ) 

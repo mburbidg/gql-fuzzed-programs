@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  INSERT  (  { c :  CURRENT_TIME  , c : c }  ) 

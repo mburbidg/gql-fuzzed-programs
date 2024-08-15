@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SAME  ( c , a )  AND  SESSION_USER 

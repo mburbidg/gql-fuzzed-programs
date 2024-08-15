@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c (  IMPLIES  { b ANY  , a PATH  }  )  =  CURRENT_DATE 

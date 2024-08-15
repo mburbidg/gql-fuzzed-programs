@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  MATCH  (  )  WHERE  COUNT  (  *  )  XOR a OR  SESSION_USER  OR c OR a

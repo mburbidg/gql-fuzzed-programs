@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  CEILING  ( c -  [  ]  *  (  CURRENT_TIMESTAMP  )  )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  [  ]  /  COUNT  (  *  )  +  LOCAL_TIMESTAMP  -  [  ]  +  COUNT  (  *  )  +  SESSION_USER 

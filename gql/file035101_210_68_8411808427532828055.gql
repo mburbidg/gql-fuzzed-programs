@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SINH  (  SESSION_USER  + a /  POWER  ( a , a )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SIZE  (  ELEMENT_ID  ( c )  ) 

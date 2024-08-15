@@ -1,0 +1,1 @@
+ FILTER  WHERE  [  ]  XOR a AND  SESSION_USER  XOR b

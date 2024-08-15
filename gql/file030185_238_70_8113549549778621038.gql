@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET b . c =  COUNT  (  *  )  XOR c AND  SESSION_USER  AND b AND  COUNT  (  *  ) 

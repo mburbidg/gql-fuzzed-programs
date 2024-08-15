@@ -1,0 +1,1 @@
+ SET b =  { c :  CURRENT_TIMESTAMP  , b : b XOR  NOT  [  ]  } 

@@ -1,0 +1,1 @@
+ SESSION  SET  TABLE  IF  NOT  EXISTS  $c = a

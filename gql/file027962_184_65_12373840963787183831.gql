@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  CHARACTER_LENGTH  ( c ||  LOWER  ( a )  ||  COUNT  (  *  )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SQRT  (  [  ]  -  COUNT  (  *  )  *  POWER  ( a ,  SESSION_USER  )  ) 

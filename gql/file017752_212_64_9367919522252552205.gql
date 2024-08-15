@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  COUNT  (  *  )  - b * a * a =  CURRENT_TIMESTAMP 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  MOD  ( b / a / a / c , c ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOWER  ( b || a ||  SESSION_USER  ||  [  ]  )  ) 

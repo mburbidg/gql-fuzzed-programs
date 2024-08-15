@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RIGHT  (  [  ]  , a -  [  ]  / c + b -  COUNT  (  *  )  ) 

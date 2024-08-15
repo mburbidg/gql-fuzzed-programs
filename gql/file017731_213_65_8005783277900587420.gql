@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG10  (  [  ]  + a *  CARDINALITY  (  TABLE a )  * b ) 

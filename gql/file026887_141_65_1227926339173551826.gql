@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LET a =  CURRENT_DATE  IN c END  IS  NULL 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  ( a AND a AND  [  ]  OR b ,  CURRENT_DATE  ) 

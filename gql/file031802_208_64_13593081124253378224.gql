@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  FLOOR  (  COUNT  (  *  )  - c *  PATH_LENGTH  (  COUNT  (  *  )  )  ) 

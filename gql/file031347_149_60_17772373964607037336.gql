@@ -1,0 +1,1 @@
+ FILTER  SESSION_USER  OR  NOT  COUNT  (  *  )  XOR  COUNT  (  *  ) 

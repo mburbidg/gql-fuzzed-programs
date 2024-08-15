@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CASE c WHEN  =  CURRENT_TIMESTAMP  + a +  COUNT  (  *  )  +  COUNT  (  *  )  +  COUNT  (  *  )  THEN  NULL  END 

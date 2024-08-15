@@ -1,0 +1,1 @@
+ DELETE  COUNT  (  *  )  XOR b AND  NOT  COUNT  (  *  )  AND b

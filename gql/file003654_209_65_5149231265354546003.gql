@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  BTRIM  (  [  ]  ,  RIGHT  ( a ||  SESSION_USER  ,  COUNT  (  *  )  )  )  ) 

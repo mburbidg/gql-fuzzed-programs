@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  COALESCE  (  [  ]  OR  [  ]  AND  NOT  COUNT  (  *  )  AND a ,  CURRENT_TIMESTAMP  ) 

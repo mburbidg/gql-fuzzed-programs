@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  (  COUNT  (  *  )  AND  [  ]  IS  FALSE  OR  SESSION_USER  ) 

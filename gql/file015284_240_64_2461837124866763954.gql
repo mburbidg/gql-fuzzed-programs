@@ -1,0 +1,1 @@
+ SELECT  *  FROM  {  FINISH  }  HAVING b XOR  COUNT  (  *  )  OR c XOR c XOR b

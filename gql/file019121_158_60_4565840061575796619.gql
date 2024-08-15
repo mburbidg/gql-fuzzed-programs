@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  RTRIM  (  COUNT  (  *  )  ||  UPPER  (  SESSION_USER  )  ) 

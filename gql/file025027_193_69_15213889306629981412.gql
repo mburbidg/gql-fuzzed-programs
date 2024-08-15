@@ -1,0 +1,1 @@
+ USE  CURRENT_PROPERTY_GRAPH  SET b =  { a : b XOR  [  ]  AND  SESSION_USER  IS  TRUE  } 

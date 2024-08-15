@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a = + [  ]  * c +  CURRENT_TIMESTAMP  + a

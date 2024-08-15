@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  ELEMENTS  (  (  LOCAL_TIMESTAMP  )  ) 

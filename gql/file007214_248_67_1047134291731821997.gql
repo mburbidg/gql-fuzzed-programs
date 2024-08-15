@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  ( b AND  [  ]  XOR  COUNT  (  *  )  OR c XOR  COUNT  (  *  )  ) 

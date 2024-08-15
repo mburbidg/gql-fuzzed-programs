@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LN  (  MOD  ( b ,  SESSION_USER  )  ) 

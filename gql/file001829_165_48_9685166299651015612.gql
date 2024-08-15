@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SESSION_USER  XOR b IS  FALSE  AND b AND  [  ] 

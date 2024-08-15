@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  SQRT  ( c +  SESSION_USER  *  FLOOR  (  COUNT  (  *  )  )  ) 

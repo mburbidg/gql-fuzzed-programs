@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  SET b =  { a :  COUNT  (  *  )  - a * + SESSION_USER  } 

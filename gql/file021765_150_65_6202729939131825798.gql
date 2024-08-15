@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  TRIM  (  CASE c WHEN  IS  NULL  THEN  NULL  END  FROM b ) 

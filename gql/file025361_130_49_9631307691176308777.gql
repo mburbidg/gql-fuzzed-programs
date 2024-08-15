@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( a +  SESSION_USER  * a AS  PATH  ) 

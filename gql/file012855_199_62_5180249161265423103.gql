@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  LOG  (  SESSION_USER  , c + c /  (  CURRENT_TIME  )  ) 

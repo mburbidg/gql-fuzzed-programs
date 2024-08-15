@@ -1,0 +1,1 @@
+ USE  CURRENT_GRAPH  MATCH  (  (  )  WHERE  [  ]  XOR c AND b AND b XOR  [  ]  ) 

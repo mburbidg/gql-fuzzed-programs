@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  DURATION_BETWEEN  (  COUNT  (  *  )  - c - a -  COUNT  (  *  )  ,  LOCAL_TIMESTAMP  )  ) 

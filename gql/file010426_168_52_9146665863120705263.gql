@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET c =  [  ]  -  COUNT  (  *  )  * a IN  CURRENT_TIME  END 

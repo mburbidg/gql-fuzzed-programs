@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  LOG  ( a *  DEGREES  (  SESSION_USER  )  , c )  ) 

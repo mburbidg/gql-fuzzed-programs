@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( a /  DEGREES  (  SESSION_USER  )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TAN  ( c - a /  MOD  ( c ,  SESSION_USER  )  )  ) 

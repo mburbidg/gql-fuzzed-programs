@@ -1,0 +1,1 @@
+ INSERT  (  IS cb { b :  CURRENT_TIMESTAMP  }  ) 

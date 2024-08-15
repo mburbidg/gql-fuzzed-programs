@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a = b XOR  [  ]  AND  NOT a OR a XOR c

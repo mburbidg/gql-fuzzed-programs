@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  LET c =  LOCAL_TIMESTAMP  , c =  COUNT  (  *  )  OR  [  ]  OR b OR  COUNT  (  *  )  IN  LOCAL_TIMESTAMP  END 

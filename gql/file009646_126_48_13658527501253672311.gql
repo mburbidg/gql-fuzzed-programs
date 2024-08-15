@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c BOOL  |  STRING  ( 9 )  =  CURRENT_DATE 

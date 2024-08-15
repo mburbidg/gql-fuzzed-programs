@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LEFT  ( a ,  [  ]  + c *  CARDINALITY  (  TABLE c )  ) 

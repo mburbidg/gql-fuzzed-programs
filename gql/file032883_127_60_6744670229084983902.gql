@@ -1,0 +1,1 @@
+ SELECT  COUNT  (  *  )  +  CURRENT_TIME  + c

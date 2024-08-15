@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  IMPLIES  LABEL a { c PATH  , b TYPED  PATH  }  )  =  CURRENT_DATE 

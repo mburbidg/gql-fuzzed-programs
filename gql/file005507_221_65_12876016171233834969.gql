@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  SIN  (  SESSION_USER  / a -  [  ]  -  SESSION_USER  - c ) 

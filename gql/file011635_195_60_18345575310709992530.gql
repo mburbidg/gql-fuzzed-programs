@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = c /  CEILING  ( a )  /  COUNT  (  *  )  * b

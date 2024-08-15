@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  CEILING  ( b + a /  SESSION_USER  * b / c /  [  ]  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a (  { b ARRAY  <  BOOLEAN  >  }  )  =  LOCAL_TIMESTAMP 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $c =  SQRT  (  SESSION_USER  + a *  LN  ( a )  ) 

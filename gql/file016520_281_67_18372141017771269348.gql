@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  LOG  ( a , a -  COUNT  (  *  )  / a / a - a + b ) 

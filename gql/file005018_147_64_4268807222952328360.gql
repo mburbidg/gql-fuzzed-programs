@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b =  BYTE_LENGTH  ( b ||  TRIM  ( b )  ) 

@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $a =  LOG10  ( b + a * + COUNT  (  *  )  -  COUNT  (  *  )  +  SESSION_USER  ) 

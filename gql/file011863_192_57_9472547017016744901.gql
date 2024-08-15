@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  CAST  ( a XOR  [  ]  XOR a OR  SESSION_USER  OR b AS  NULL  ) 

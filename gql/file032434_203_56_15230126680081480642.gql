@@ -1,0 +1,1 @@
+ SESSION  SET  VALUE  $b = c - a *  CARDINALITY  (  TABLE a )  / c +  SESSION_USER 

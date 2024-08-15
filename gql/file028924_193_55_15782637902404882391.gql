@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  ( b /  CARDINALITY  (  TABLE c )  -  [  ]  +  COUNT  (  *  )  ) 

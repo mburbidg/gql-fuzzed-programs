@@ -1,0 +1,1 @@
+ SESSION  SET  GRAPH  (  TRIM  ( c ||  (  LOCAL_TIMESTAMP  )  FROM  SESSION_USER  )  ) 

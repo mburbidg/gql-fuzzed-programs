@@ -1,0 +1,1 @@
+ SELECT b XOR a AND  [  ]  XOR b
